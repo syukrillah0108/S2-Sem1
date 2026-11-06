@@ -1,0 +1,171 @@
+{
+ "split": {
+  "train_sebelum": "2026-09-16",
+  "validasi_sebelum": "2026-10-02",
+  "test_mulai": "2026-10-09"
+ },
+ "sensorfill": [
+  {
+   "target": "temp",
+   "input": "(jam saja)",
+   "model": "SensorFill",
+   "MAE": 1.7625296602,
+   "RMSE": 2.3532112878,
+   "R2": 0.7979669019
+  },
+  {
+   "target": "hum",
+   "input": "(jam saja)",
+   "model": "SensorFill",
+   "MAE": 8.1727918146,
+   "RMSE": 10.3149004741,
+   "R2": 0.6153371445
+  },
+  {
+   "target": "lux",
+   "input": "(jam saja)",
+   "model": "SensorFill",
+   "MAE": 0.4003223331,
+   "RMSE": 0.6908750902,
+   "R2": 0.9447966321
+  },
+  {
+   "target": "temp",
+   "input": "lux",
+   "model": "SensorFill",
+   "MAE": 1.5254507093,
+   "RMSE": 1.8965599747,
+   "R2": 0.8687697852
+  },
+  {
+   "target": "hum",
+   "input": "lux",
+   "model": "SensorFill",
+   "MAE": 7.9134809767,
+   "RMSE": 10.0083598401,
+   "R2": 0.6378604226
+  },
+  {
+   "target": "temp",
+   "input": "hum",
+   "model": "SensorFill",
+   "MAE": 1.2666330391,
+   "RMSE": 1.5564934309,
+   "R2": 0.9116116021
+  },
+  {
+   "target": "lux",
+   "input": "hum",
+   "model": "SensorFill",
+   "MAE": 0.3069659455,
+   "RMSE": 0.5293954664,
+   "R2": 0.9675864244
+  },
+  {
+   "target": "temp",
+   "input": "hum + lux",
+   "model": "SensorFill",
+   "MAE": 1.2568677348,
+   "RMSE": 1.5515480516,
+   "R2": 0.9121723751
+  },
+  {
+   "target": "hum",
+   "input": "temp",
+   "model": "SensorFill",
+   "MAE": 6.2935306769,
+   "RMSE": 8.029427966,
+   "R2": 0.7669122874
+  },
+  {
+   "target": "lux",
+   "input": "temp",
+   "model": "SensorFill",
+   "MAE": 0.3181629589,
+   "RMSE": 0.5371224337,
+   "R2": 0.9666333129
+  },
+  {
+   "target": "hum",
+   "input": "temp + lux",
+   "model": "SensorFill",
+   "MAE": 6.3475361974,
+   "RMSE": 8.0369965646,
+   "R2": 0.7664726599
+  },
+  {
+   "target": "lux",
+   "input": "temp + hum",
+   "model": "SensorFill",
+   "MAE": 0.2884974112,
+   "RMSE": 0.4567289079,
+   "R2": 0.9758741009
+  }
+ ],
+ "forecast": [
+  {
+   "target": "temp",
+   "horizon": "1 jam",
+   "MAE": 0.9894725871,
+   "RMSE": 1.527883527,
+   "R2": 0.9172205026
+  },
+  {
+   "target": "temp",
+   "horizon": "3 jam",
+   "MAE": 1.1768368697,
+   "RMSE": 1.7512199061,
+   "R2": 0.891251404
+  },
+  {
+   "target": "temp",
+   "horizon": "6 jam",
+   "MAE": 1.353795674,
+   "RMSE": 2.0432134864,
+   "R2": 0.8519631684
+  },
+  {
+   "target": "temp",
+   "horizon": "24 jam",
+   "MAE": 1.3599061428,
+   "RMSE": 1.9861826716,
+   "R2": 0.8601119342
+  },
+  {
+   "target": "hum",
+   "horizon": "1 jam",
+   "MAE": 2.5303444838,
+   "RMSE": 3.6942047076,
+   "R2": 0.9505481892
+  },
+  {
+   "target": "hum",
+   "horizon": "3 jam",
+   "MAE": 4.4036068601,
+   "RMSE": 6.1289571284,
+   "R2": 0.8638826606
+  },
+  {
+   "target": "hum",
+   "horizon": "6 jam",
+   "MAE": 5.9284435761,
+   "RMSE": 7.9171219418,
+   "R2": 0.7728697637
+  },
+  {
+   "target": "hum",
+   "horizon": "24 jam",
+   "MAE": 7.0361130103,
+   "RMSE": 9.2091044813,
+   "R2": 0.6926911375
+  }
+ ],
+ "alarm_35_dilatih_ulang": {
+  "accuracy": 0.9665311977,
+  "precision": 0.75,
+  "recall": 0.7391304348,
+  "F1": 0.7445255474,
+  "ROC-AUC": 0.9852503682,
+  "PR-AUC": 0.8232932659
+ }
+}
