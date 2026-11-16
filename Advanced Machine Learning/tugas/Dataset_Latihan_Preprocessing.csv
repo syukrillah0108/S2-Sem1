@@ -1,0 +1,1001 @@
+id_pelanggan,usia_tahun,kota,kanal_akuisisi,tingkat_member,metode_pembayaran,langganan_newsletter,lama_member_bulan,jumlah_transaksi_6bln,rata_nilai_transaksi_rp,total_belanja_6bln_rp,hari_sejak_transaksi_terakhir,jumlah_keluhan_6bln,skor_kepuasan,persen_diskon_rata,jumlah_kunjungan_30hari,pengeluaran_bulanan_rp,kode_acak,warna_favorit,negara,kolom_hampir_kosong,churn_3bln
+PLG0001,34,Jakarta,Iklan,Silver,Transfer Bank,Ya,33,7,280000,1960000,98,0,8.6,29.1,5,3380000,4262,Biru,Indonesia,,0
+PLG0002,43,Yogyakarta,Marketplace,Gold,E-Wallet,Tidak,15,11,226000,2486000,18,,7.6,20.5,14,3260000,8377,Kuning,Indonesia,,0
+PLG0003,27,Jakarta,Iklan,Bronze,Kartu Kredit,Ya,13,9,431000,3879000,81,0,10,2.1,11,5070000,7000,Kuning,Indonesia,A,0
+PLG0004,57,Jakarta,Referral,Platinum,COD,Ya,6,11,324000,3564000,101,0,,29.8,,2740000,7210,Kuning,Indonesia,,0
+PLG0005,27,Surabaya,Organik,Silver,Transfer Bank,Tidak,28,6,,2178000,76,0,,13.9,5,2150000,3037,Hijau,Indonesia,,0
+PLG0006,31,Bandung,Marketplace,Bronze,E-Wallet,Tidak,42,17,78000,1326000,2,0,9.2,11.6,14,4490000,6292,Hijau,Indonesia,,0
+PLG0007,31,Bandung,Organik,Gold,E-Wallet,Tidak,14,2,1093000,2186000,86,2,3.8,,4,4170000,9775,Merah,Indonesia,,1
+PLG0008,35,Medan,Referral,Silver,,Tidak,51,15,187000,2805000,63,2,8.8,7.9,10,,2893,Kuning,Indonesia,,0
+PLG0009,41,Surabaya,Marketplace,Bronze,Transfer Bank,Tidak,12,5,199000,995000,66,,8.9,5.5,15,7510000,1768,Hijau,Indonesia,,0
+PLG0010,50,Surabaya,Organik,Gold,COD,Tidak,8,4,136000,544000,8,2,5.4,0.6,14,17710000,7611,Merah,Indonesia,,0
+PLG0011,65,Medan,Referral,Gold,COD,Tidak,26,14,593000,8302000,87,4,4.3,19.8,13,2760000,4542,Merah,Indonesia,,1
+PLG0012,42,Yogyakarta,Organik,Silver,Kartu Kredit,Ya,26,10,139000,1390000,40,0,7.7,23.3,28,7570000,2952,Kuning,Indonesia,B,0
+PLG0013,48,Jakarta,Referral,Platinum,COD,Tidak,24,5,216000,1080000,73,4,,20,,14900000,9084,Biru,Indonesia,,1
+PLG0014,26,Jakarta,Referral,Silver,COD,Ya,55,0,230000,0,74,2,6.2,23.7,0,,5331,Biru,Indonesia,,0
+PLG0015,27,Bandung,Organik,Silver,E-Wallet,Ya,58,1,,583000,95,0,9.2,27.5,4,5190000,9933,Biru,Indonesia,,0
+PLG0016,33,Yogyakarta,Iklan,Silver,Transfer Bank,Ya,11,0,149000,0,5,4,5.3,12.6,23,13580000,2324,Biru,Indonesia,,0
+PLG0017,,Bandung,Marketplace,Silver,COD,Ya,7,11,205000,2255000,57,4,7.3,27.1,11,5560000,3816,Biru,Indonesia,,1
+PLG0018,32,Medan,Iklan,Platinum,E-Wallet,Ya,6,1,275000,275000,72,4,5.5,8.1,5,4430000,3645,Merah,Indonesia,B,1
+PLG0019,50,Jakarta,Referral,Platinum,Transfer Bank,Ya,36,12,99000,1188000,78,0,6.8,11.1,8,2700000,1624,Biru,Indonesia,,0
+PLG0020,21,Jakarta,Referral,Bronze,Transfer Bank,Ya,55,1,148000,148000,47,0,10,,15,5880000,675,Kuning,Indonesia,,0
+PLG0021,-7,Surabaya,Iklan,Bronze,E-Wallet,Ya,22,3,196000,588000,80,1,8,29.3,4,3820000,613,Biru,Indonesia,,0
+PLG0022,0,Medan,Iklan,Silver,Transfer Bank,Tidak,54,16,513000,8208000,96,0,6.6,,0,,9,Kuning,Indonesia,,0
+PLG0023,145,Surabaya,Referral,Silver,Kartu Kredit,Tidak,28,11,625000,6875000,90,0,8,5.3,4,,2968,Biru,Indonesia,,0
+PLG0024,180,Surabaya,Iklan,Platinum,Kartu Kredit,Tidak,43,0,181000,0,117,0,7.9,4.1,9,4170000,7356,Biru,Indonesia,,1
+PLG0025,-12,Surabaya,Referral,Silver,E-Wallet,Ya,2,17,447000,7599000,116,0,,22.3,2,2340000,6436,Kuning,Indonesia,,0
+PLG0026,200,Surabaya,Organik,Bronze,COD,Ya,4,7,,1561000,12,0,,2.9,,6930000,3770,Hijau,Indonesia,,0
+PLG0027,35,Surabaya,Iklan,Silver,Kartu Kredit,Tidak,23,16,478000,7648000,102,0,8.9,17.3,8,9010000,8745,Biru,Indonesia,,0
+PLG0028,31,Bandung,Referral,Gold,Transfer Bank,Ya,52,1,238000,238000,1,0,10,2,15,6280000,2726,Biru,Indonesia,C,0
+PLG0029,58,Bandung,Referral,Silver,E-Wallet,Ya,7,4,193000,772000,14,3,,21.4,17,8710000,6019,Merah,Indonesia,B,1
+PLG0030,26,Jakarta,Marketplace,,Kartu Kredit,Tidak,32,6,335000,2010000,75,0,9.3,23.9,,6900000,2438,Hijau,Indonesia,,0
+PLG0031,26,Bandung,,Platinum,E-Wallet,Tidak,28,16,113000,1808000,,0,6.4,1.8,15,5410000,9909,Hijau,Indonesia,,0
+PLG0032,28,Medan,Organik,Gold,COD,Ya,34,10,304000,3040000,62,,9,20.7,10,6980000,1781,Hijau,Indonesia,,0
+PLG0033,22,Bandung,Referral,Gold,Transfer Bank,Tidak,5,,,2015000,87,0,8.7,,19,4810000,4605,Biru,Indonesia,C,0
+PLG0034,36,Medan,Marketplace,Silver,,Ya,51,5,516000,2580000,82,0,7.3,17.2,3,12740000,2669,Merah,Indonesia,B,0
+PLG0035,31,Jakarta,Marketplace,Silver,Kartu Kredit,Ya,,1,289000,289000,110,4,6.4,6.5,7,9850000,2639,Biru,Indonesia,,1
+PLG0036,37,Bandung,Referral,Gold,Transfer Bank,Ya,47,9,439000,3951000,53,0,10,13.5,12,2220000,5190,Hijau,Indonesia,,0
+PLG0037,28,Yogyakarta,Marketplace,Bronze,Kartu Kredit,Tidak,56,1,51000,51000,13,4,6.4,29.7,24,3640000,5391,Hijau,Indonesia,,0
+PLG0038,39,Medan,Iklan,Silver,COD,Ya,29,16,159000,2544000,68,0,9.1,4.1,3,6860000,2099,Merah,Indonesia,B,0
+PLG0039,22,Medan,Organik,Gold,Kartu Kredit,Ya,49,10,323000,3230000,93,0,,13.1,0,6350000,8087,Biru,Indonesia,,0
+PLG0040,24,Yogyakarta,Referral,Bronze,Transfer Bank,Ya,37,1,325000,325000,108,2,6.7,21.5,2,10390000,7003,Biru,Indonesia,,1
+PLG0041,34,Yogyakarta,Organik,Bronze,Kartu Kredit,Tidak,35,6,15000000,90000000,65,,10,13.5,4,,1959,Kuning,Indonesia,,0
+PLG0042,32,Jakarta,Referral,Bronze,Kartu Kredit,Tidak,52,11,20000000,220000000,9,2,5.3,26.6,16,,8301,Biru,Indonesia,,0
+PLG0043,34,Medan,Iklan,Platinum,Kartu Kredit,Ya,15,3,25000000,,35,3,6.8,1.4,11,3750000,5029,Merah,Indonesia,,0
+PLG0044,22,Yogyakarta,Iklan,Silver,Kartu Kredit,Ya,18,8,30000000,240000000,45,0,9.3,17.9,14,6250000,2719,Biru,Indonesia,C,0
+PLG0045,,,Iklan,Platinum,Kartu Kredit,Ya,28,16,35000000,560000000,42,0,7.6,8.5,13,5000000,5672,Merah,Indonesia,,0
+PLG0046,52,Medan,Iklan,Bronze,,Tidak,39,15,40000000,600000000,116,0,8.9,22.4,8,,4671,Biru,Indonesia,,0
+PLG0047,33,Yogyakarta,Iklan,Silver,Kartu Kredit,Tidak,13,11,170000,1870000,18,0,8.4,9.7,20,2620000,9696,Kuning,Indonesia,,0
+PLG0048,30,Bandung,Organik,Bronze,Transfer Bank,Tidak,7,3,239000,717000,1,0,8.7,13.3,12,4020000,1026,Hijau,Indonesia,,0
+PLG0049,59,Jakarta,Referral,Silver,Transfer Bank,Tidak,12,8,712000,5696000,42,1,7.8,3.8,8,4000000,8762,Hijau,Indonesia,,0
+PLG0050,47,Medan,Organik,Gold,Kartu Kredit,Ya,49,1,288000,288000,94,2,6.6,29.6,0,12360000,1018,Hijau,Indonesia,,1
+PLG0051,19,Yogyakarta,Referral,Silver,Kartu Kredit,Ya,7,9,201000,1809000,46,0,6.8,16.4,11,12920000,8659,Kuning,Indonesia,,0
+PLG0052,61,Bandung,Marketplace,Silver,Transfer Bank,Tidak,39,0,210000,0,49,3,,3.5,13,2950000,1603,Hijau,Indonesia,,0
+PLG0053,54,Surabaya,Iklan,Gold,COD,Tidak,17,1,255000,255000,81,4,4.2,23.1,8,,5407,Hijau,Indonesia,,0
+PLG0054,27,Medan,Organik,Gold,COD,Tidak,21,12,131000,1572000,55,0,8.7,13.9,24,6710000,4421,Biru,Indonesia,,0
+PLG0055,27,Medan,Referral,Platinum,E-Wallet,Tidak,53,2,192000,384000,100,4,5.8,0.2,7,,2864,Kuning,Indonesia,,1
+PLG0056,43,Surabaya,Organik,Bronze,Transfer Bank,Ya,50,12,,8208000,18,1,9.9,10.3,9,2910000,9959,Hijau,Indonesia,,0
+PLG0057,47,Medan,Referral,Bronze,E-Wallet,Ya,16,9,217000,1953000,101,0,,2.6,8,4460000,4917,Hijau,Indonesia,,0
+PLG0058,33,Yogyakarta,Marketplace,,Transfer Bank,Ya,18,0,154000,,92,4,4.8,2.5,2,4280000,5936,Merah,Indonesia,,1
+PLG0059,61,Bandung,Iklan,Bronze,E-Wallet,Tidak,56,12,109000,,47,0,7.6,16.5,14,6530000,4554,Merah,Indonesia,,0
+PLG0060,48,Jakarta,Referral,Bronze,Kartu Kredit,Ya,39,16,218000,3488000,86,,6.5,2.1,1,12560000,7080,Merah,Indonesia,,0
+PLG0061,,Yogyakarta,Referral,Gold,COD,Ya,1,11,276000,3036000,25,2,5,19.5,6,60000000,6670,Hijau,Indonesia,,0
+PLG0062,44,Bandung,Iklan,Platinum,COD,Tidak,36,14,215000,3010000,51,0,8.2,11.6,6,70000000,8175,Merah,Indonesia,,0
+PLG0063,18,Jakarta,Iklan,Gold,Kartu Kredit,Ya,12,17,144000,2448000,58,0,5.8,15.8,16,80000000,8171,Kuning,Indonesia,,1
+PLG0064,45,,Organik,Silver,Kartu Kredit,Tidak,55,15,177000,2655000,93,,,5.2,9,90000000,5027,Hijau,Indonesia,,0
+PLG0065,22,Jakarta,Iklan,Platinum,E-Wallet,Tidak,10,16,563000,9008000,100,0,10,3.8,5,100000000,7084,Kuning,Indonesia,,0
+PLG0066,47,Yogyakarta,Iklan,Bronze,,Tidak,19,12,251000,3012000,5,2,10,15.8,22,110000000,6449,Biru,Indonesia,,0
+PLG0067,32,Surabaya,Referral,Platinum,COD,Tidak,53,9,162000,1458000,62,0,5.6,24.8,11,,1245,Hijau,Indonesia,,0
+PLG0068,48,Yogyakarta,Referral,Platinum,COD,Tidak,47,8,254000,,98,0,7.4,0.9,10,7750000,484,Merah,Indonesia,,1
+PLG0069,37,Medan,Marketplace,Bronze,Transfer Bank,Tidak,20,8,248000,1984000,48,2,6.9,19.4,12,4070000,8460,Kuning,Indonesia,,0
+PLG0070,36,Yogyakarta,Marketplace,Silver,COD,Ya,28,3,291000,,79,1,7.5,24.6,7,3660000,2543,Kuning,Indonesia,,0
+PLG0071,,,Marketplace,Gold,COD,Ya,15,1,248000,248000,72,0,6.8,2.1,12,13260000,2481,Merah,Indonesia,B,0
+PLG0072,29,Surabaya,Marketplace,,E-Wallet,Ya,24,13,80000,1040000,90,1,7.6,6.7,1,3170000,588,Kuning,Indonesia,,1
+PLG0073,41,Surabaya,Organik,Platinum,E-Wallet,Tidak,29,2,891000,1782000,95,0,4.5,20.5,8,5020000,1693,Kuning,Indonesia,,1
+PLG0074,51,Bandung,Iklan,Gold,Transfer Bank,Ya,40,2,512000,1024000,56,,5.9,12.6,5,4590000,2665,Biru,Indonesia,C,0
+PLG0075,18,Surabaya,Organik,Silver,COD,Ya,59,6,135000,810000,63,4,4.5,15.3,9,3120000,3751,Merah,Indonesia,,1
+PLG0076,42,Yogyakarta,Marketplace,Platinum,E-Wallet,Ya,8,14,405000,5670000,91,0,8.5,,3,13510000,4827,Kuning,Indonesia,A,0
+PLG0077,43,Jakarta,Referral,Bronze,E-Wallet,Tidak,13,11,770000,,102,0,6.8,10.5,5,5980000,1779,Kuning,Indonesia,,1
+PLG0078,60,Yogyakarta,Referral,,Kartu Kredit,Tidak,,10,163000,1630000,52,0,7.7,6.6,13,6220000,1857,Kuning,Indonesia,,0
+PLG0079,46,Medan,Referral,Platinum,COD,Ya,11,1,723000,723000,94,0,8.8,6,1,2650000,4505,Kuning,Indonesia,,0
+PLG0080,32,,Organik,Bronze,E-Wallet,Tidak,33,10,273000,2730000,19,0,8.6,,11,3270000,2799,Kuning,Indonesia,,0
+PLG0081,26,Yogyakarta,Referral,Bronze,Kartu Kredit,Tidak,29,-5,505000,-2525000,107,1,7.5,12.7,4,5290000,707,Kuning,Indonesia,,1
+PLG0082,50,Jakarta,Marketplace,Silver,Kartu Kredit,Ya,41,-2,124000,-248000,19,0,,9.2,16,9420000,1039,Biru,Indonesia,,0
+PLG0083,32,Surabaya,Referral,Platinum,COD,Tidak,25,150,330000,49500000,85,0,8.9,15,4,4080000,1024,Biru,Indonesia,,0
+PLG0084,55,Bandung,Iklan,Gold,E-Wallet,Ya,13,220,317000,69740000,87,0,5.6,6.1,10,,1333,Merah,Indonesia,,1
+PLG0085,35,Medan,Iklan,,COD,Tidak,60,11,153000,1683000,56,0,9.2,13.5,5,6410000,5475,Hijau,Indonesia,B,0
+PLG0086,27,Surabaya,Marketplace,Gold,E-Wallet,Ya,,1,270000,270000,17,,8.1,,5,,2993,Kuning,Indonesia,,0
+PLG0087,18,Yogyakarta,Organik,Platinum,COD,Tidak,32,11,311000,3421000,57,0,10,2.6,10,9190000,9754,Kuning,Indonesia,,0
+PLG0088,48,Yogyakarta,Marketplace,Bronze,Transfer Bank,Tidak,22,5,586000,2930000,61,0,6.3,2.8,12,6290000,7226,Kuning,Indonesia,,0
+PLG0089,46,Jakarta,Iklan,Gold,COD,Tidak,56,5,434000,2170000,35,0,8.6,26.3,13,,7043,Kuning,Indonesia,,0
+PLG0090,37,Bandung,Marketplace,Bronze,Kartu Kredit,Tidak,33,15,179000,2685000,13,4,3.6,22,19,2620000,3404,Merah,Indonesia,B,0
+PLG0091,54,Yogyakarta,Iklan,Silver,E-Wallet,Ya,56,13,132000,,69,0,-1,,14,,5002,Kuning,Indonesia,,0
+PLG0092,54,Jakarta,Organik,Platinum,COD,Ya,11,4,72000,288000,73,1,0,13.1,10,4230000,1791,Hijau,Indonesia,,0
+PLG0093,24,Bandung,Organik,Gold,COD,Ya,56,7,326000,2282000,22,3,15,8,14,1820000,9649,Kuning,Indonesia,B,0
+PLG0094,33,Medan,Iklan,Silver,E-Wallet,Tidak,,3,190000,570000,23,0,100,1,15,4720000,4440,Biru,Indonesia,,0
+PLG0095,53,Bandung,Referral,Gold,Kartu Kredit,Ya,20,1,236000,,36,0,8.7,27.7,13,2730000,283,Kuning,Indonesia,,0
+PLG0096,47,Surabaya,Referral,,Kartu Kredit,Ya,43,6,96000,576000,40,0,8.7,1,8,22360000,8603,Kuning,Indonesia,,0
+PLG0097,22,Surabaya,Marketplace,Gold,E-Wallet,Ya,43,15,,6105000,46,3,,21.7,3,2090000,4586,Kuning,Indonesia,,1
+PLG0098,18,Bandung,Iklan,Silver,E-Wallet,Tidak,16,2,223000,446000,82,0,7,16.6,18,3540000,824,Biru,Indonesia,,1
+PLG0099,24,Bandung,Referral,Platinum,Transfer Bank,Tidak,59,7,368000,2576000,58,0,9.2,,3,8910000,2665,Hijau,Indonesia,,0
+PLG0100,30,Surabaya,Organik,Bronze,COD,Ya,15,0,596000,0,14,,9,12.7,14,11880000,2743,Merah,Indonesia,,0
+PLG0101,21,Medan,Iklan,Platinum,Transfer Bank,Ya,25,4,220000,880000,120,0,10,25.3,5,3340000,1749,Biru,Indonesia,,1
+PLG0102,26,Bandung,Organik,Platinum,Transfer Bank,Tidak,56,5,136000,680000,31,0,6.4,18.3,20,3840000,9280,Hijau,Indonesia,,0
+PLG0103,31,Yogyakarta,Iklan,Silver,E-Wallet,Tidak,11,9,505000,4545000,88,0,9.4,0.2,8,9020000,5296,Kuning,Indonesia,,0
+PLG0104,33,Bandung,Marketplace,Silver,Transfer Bank,Ya,5,16,286000,4576000,104,0,8.4,8.8,3,3590000,2216,Kuning,Indonesia,,0
+PLG0105,34,Surabaya,Iklan,Gold,E-Wallet,Tidak,29,6,236000,1416000,40,0,6.6,22,19,4970000,7631,Biru,Indonesia,,0
+PLG0106,43,Yogyakarta,Iklan,Bronze,,Ya,30,4,506000,2024000,61,0,6.5,27.5,14,5500000,7641,Hijau,Indonesia,,0
+PLG0107,34,Medan,Organik,Gold,E-Wallet,Ya,31,1,500000,500000,89,0,9.5,11.6,4,1760000,825,Kuning,Indonesia,,1
+PLG0108,24,Bandung,Referral,Bronze,Kartu Kredit,Tidak,4,12,203000,2436000,55,4,6,26.2,19,4090000,9439,Kuning,Indonesia,,1
+PLG0109,,Surabaya,Referral,Silver,COD,Ya,22,15,460000,6900000,23,0,6.6,27.2,9,10830000,8433,Kuning,Indonesia,,0
+PLG0110,,Bandung,Referral,Platinum,Kartu Kredit,,17,11,172000,1892000,99,0,8.1,27.9,12,4210000,3386,Hijau,Indonesia,,0
+PLG0111,32,Jakarta,Marketplace,Bronze,COD,Ya,29,11,107000,1177000,78,4,5.5,0.3,8,7160000,7091,Biru,Indonesia,,1
+PLG0112,28,Jakarta,Marketplace,Silver,E-Wallet,Tidak,15,12,439000,5268000,51,3,6.3,27.3,19,2750000,5164,Hijau,Indonesia,,1
+PLG0113,34,Jakarta,Marketplace,Bronze,Kartu Kredit,,51,10,356000,3560000,55,0,8,27.4,9,,8428,Kuning,Indonesia,C,0
+PLG0114,26,Bandung,Organik,Silver,Kartu Kredit,Tidak,33,10,290000,2900000,12,0,8.2,21.1,11,3740000,73,Kuning,Indonesia,,0
+PLG0115,32,Bandung,Organik,Gold,Transfer Bank,Ya,23,15,119000,1785000,111,4,7,29,8,5040000,9105,Hijau,Indonesia,,0
+PLG0116,42,Bandung,Marketplace,Bronze,Transfer Bank,Ya,31,9,321000,2889000,94,3,7,27.2,9,3370000,2482,Merah,Indonesia,,1
+PLG0117,41,Surabaya,Iklan,Bronze,COD,Ya,7,17,416000,7072000,32,0,8.2,27.9,12,5050000,5841,Merah,Indonesia,,0
+PLG0118,27,Bandung,Iklan,Silver,Kartu Kredit,Tidak,14,15,254000,3810000,93,0,7.5,16.6,,2690000,5485,Kuning,Indonesia,,0
+PLG0119,45,Jakarta,Referral,Platinum,Transfer Bank,Tidak,53,8,391000,3128000,38,1,,13.7,,4560000,4418,Hijau,Indonesia,,0
+PLG0120,47,Medan,Marketplace,Silver,E-Wallet,Tidak,29,12,709000,8508000,74,0,9,,11,3600000,8036,Merah,Indonesia,,0
+PLG0121,50,Yogyakarta,Referral,Silver,Kartu Kredit,Ya,40,3,415000,1245000,90,0,7.1,23.3,13,4350000,1735,Kuning,Indonesia,,0
+PLG0122,35,Medan,Organik,Bronze,COD,Tidak,25,14,390000,5460000,27,0,10,16.6,11,19180000,7057,Biru,Indonesia,,0
+PLG0123,44,Yogyakarta,Referral,Platinum,Transfer Bank,Tidak,23,14,218000,3052000,102,2,,17.3,12,8070000,1739,Biru,Indonesia,,1
+PLG0124,46,Yogyakarta,Iklan,Bronze,E-Wallet,Tidak,,17,385000,6545000,18,0,8.9,4.2,7,4840000,2493,Biru,Indonesia,,0
+PLG0125,47,Jakarta,,Bronze,COD,Tidak,24,13,895000,11635000,107,0,6,,1,7270000,285,Biru,Indonesia,,1
+PLG0126,42,Jakarta,Organik,Bronze,Transfer Bank,,37,16,303000,4848000,36,0,7,6.1,19,4690000,5323,Merah,Indonesia,,0
+PLG0127,,Surabaya,Referral,Gold,COD,Ya,6,4,264000,1056000,4,0,8.1,12.7,23,6040000,7575,Biru,Indonesia,B,0
+PLG0128,44,Surabaya,Iklan,Gold,COD,Tidak,41,3,,624000,90,1,6.5,6.7,6,,3685,Merah,Indonesia,,0
+PLG0129,39,Medan,Marketplace,Bronze,COD,Tidak,17,16,539000,8624000,25,,9,0.5,9,5770000,7873,Biru,Indonesia,C,0
+PLG0130,51,Medan,Marketplace,,Transfer Bank,Ya,7,,139000,1390000,90,0,8.3,17.5,12,6470000,5568,Merah,Indonesia,,0
+PLG0131,18,Jakarta,Organik,Platinum,Kartu Kredit,Ya,,6,255000,1530000,18,0,9.3,21.6,12,5940000,735,Hijau,Indonesia,,0
+PLG0132,28,Medan,Organik,Gold,COD,Ya,34,11,,1111000,57,2,,4,8,5370000,2017,Kuning,Indonesia,,0
+PLG0133,32,Yogyakarta,Referral,,E-Wallet,Ya,10,12,306000,3672000,40,4,5,17.7,10,,3744,Merah,Indonesia,,1
+PLG0134,46,Yogyakarta,,Silver,Kartu Kredit,Ya,37,1,196000,196000,95,1,4.4,22.5,9,11600000,6510,Biru,Indonesia,,1
+PLG0135,32,Yogyakarta,Marketplace,,Transfer Bank,Tidak,7,2,100000,,19,0,7.9,10,14,4430000,9845,Kuning,Indonesia,,0
+PLG0136,41,Yogyakarta,Marketplace,Gold,Kartu Kredit,Ya,33,10,264000,2640000,112,0,6.6,,2,7640000,1372,Merah,Indonesia,,1
+PLG0137,27,Bandung,Referral,Platinum,Kartu Kredit,Ya,30,12,433000,5196000,116,0,8.3,19.9,12,6240000,8642,Biru,Indonesia,,1
+PLG0138,29,Yogyakarta,,Platinum,E-Wallet,Ya,46,1,304000,304000,53,0,7,24.5,12,3920000,3324,Hijau,Indonesia,,0
+PLG0139,43,,Referral,Bronze,Kartu Kredit,Tidak,3,1,441000,441000,59,0,7.6,8.2,9,12560000,1031,Biru,Indonesia,,1
+PLG0140,40,Bandung,Iklan,Bronze,Kartu Kredit,Tidak,21,2,275000,550000,,1,7.2,27.7,6,2870000,5541,Hijau,Indonesia,,1
+PLG0141,18,Medan,Iklan,Silver,Kartu Kredit,Tidak,31,8,237000,1896000,7,0,9.5,26.9,16,7390000,9740,Biru,Indonesia,,0
+PLG0142,47,Surabaya,Referral,Platinum,Kartu Kredit,Ya,37,12,156000,1872000,119,0,7.8,4.8,9,9840000,1005,Biru,Indonesia,C,1
+PLG0143,38,Yogyakarta,Marketplace,Silver,Transfer Bank,Ya,32,12,112000,1344000,,1,,6,0,5930000,9784,Biru,Indonesia,B,1
+PLG0144,38,Jakarta,Organik,Platinum,E-Wallet,Tidak,15,16,310000,4960000,87,0,6.4,26.7,17,5490000,4909,Hijau,Indonesia,,1
+PLG0145,26,Yogyakarta,Organik,Bronze,Kartu Kredit,Tidak,26,3,288000,864000,96,0,6.5,22.8,0,1340000,3517,Hijau,Indonesia,B,1
+PLG0146,33,Yogyakarta,Referral,Gold,COD,Tidak,48,4,269000,1076000,77,2,,17.2,11,11000000,7569,Biru,Indonesia,,0
+PLG0147,25,Medan,Iklan,Bronze,COD,Tidak,35,5,456000,2280000,22,0,,15,11,5320000,5578,Biru,Indonesia,,0
+PLG0148,25,Yogyakarta,Iklan,Gold,,Tidak,54,17,226000,3842000,40,4,2.4,8.9,13,7430000,9721,Biru,Indonesia,,1
+PLG0149,40,Bandung,Referral,Silver,COD,Tidak,,5,399000,1995000,116,0,9,19.3,6,6420000,4975,Biru,Indonesia,,1
+PLG0150,44,Jakarta,Referral,Platinum,Transfer Bank,Tidak,55,,258000,1806000,51,1,7.5,27.4,14,6140000,8676,Merah,Indonesia,,0
+PLG0151,30,Bandung,Referral,Platinum,Transfer Bank,Ya,58,3,285000,855000,41,2,7,10.9,10,5130000,7878,Kuning,Indonesia,,0
+PLG0152,53,Medan,Organik,,COD,Ya,41,12,209000,2508000,102,2,10,23.3,6,8800000,1209,Kuning,Indonesia,,1
+PLG0153,41,Medan,Marketplace,Platinum,E-Wallet,Ya,59,10,79000,790000,57,0,5.3,,0,3790000,6029,Hijau,Indonesia,,0
+PLG0154,19,Medan,Marketplace,Silver,Kartu Kredit,Ya,23,7,176000,1232000,72,0,10,0.6,4,,2444,Merah,Indonesia,,0
+PLG0155,32,Yogyakarta,Organik,Bronze,COD,Ya,18,14,393000,5502000,89,0,6.2,18.4,0,5260000,8900,Merah,Indonesia,,1
+PLG0156,,,Referral,Silver,COD,Tidak,50,8,231000,1848000,119,0,6.9,26.4,0,6110000,993,Hijau,Indonesia,,0
+PLG0157,38,Jakarta,Organik,Platinum,Kartu Kredit,Tidak,11,16,453000,7248000,26,4,5.2,24.4,15,,3574,Biru,Indonesia,,0
+PLG0158,31,Medan,Organik,Bronze,Transfer Bank,Tidak,5,12,405000,4860000,76,0,8.1,6.6,7,4660000,6381,Biru,Indonesia,,0
+PLG0159,28,Jakarta,Organik,Bronze,COD,Ya,52,17,246000,4182000,58,2,9.3,11.9,8,3760000,479,Kuning,Indonesia,,0
+PLG0160,33,Medan,Marketplace,Platinum,Transfer Bank,Tidak,59,16,139000,2224000,20,0,7.3,29.1,11,8160000,5920,Hijau,Indonesia,,0
+PLG0161,38,Medan,Organik,Gold,Kartu Kredit,Ya,51,3,445000,1335000,71,0,10,9.6,10,1880000,890,Kuning,Indonesia,,0
+PLG0162,45,Yogyakarta,Iklan,,E-Wallet,Ya,47,10,515000,,4,0,10,22.5,11,4630000,5534,Biru,Indonesia,,0
+PLG0163,23,Surabaya,Referral,Silver,Kartu Kredit,Ya,37,9,163000,1467000,,0,7.1,7.2,11,9220000,7050,Hijau,Indonesia,,1
+PLG0164,58,Yogyakarta,Organik,Gold,E-Wallet,Ya,26,16,345000,5520000,,0,8.8,6.7,11,4340000,1712,Merah,Indonesia,,1
+PLG0165,31,Surabaya,Referral,Silver,Transfer Bank,Tidak,19,3,313000,939000,7,0,9.9,28.7,17,4920000,9999,Merah,Indonesia,,0
+PLG0166,27,Yogyakarta,,Gold,Kartu Kredit,Ya,5,6,228000,1368000,15,1,6.3,7.8,11,3350000,9093,Hijau,Indonesia,,0
+PLG0167,44,Yogyakarta,Iklan,Bronze,E-Wallet,Ya,4,3,249000,747000,31,3,6.2,10.6,16,,3994,Merah,Indonesia,,0
+PLG0168,45,,Iklan,Gold,Kartu Kredit,Ya,45,12,484000,5808000,24,,9.4,4.9,12,5810000,3916,Merah,Indonesia,,0
+PLG0169,,Medan,Iklan,Bronze,E-Wallet,Tidak,14,7,940000,6580000,53,,6.8,27.5,8,16420000,4522,Hijau,Indonesia,,0
+PLG0170,24,Bandung,Iklan,Gold,Transfer Bank,Ya,40,13,283000,3679000,,0,8.9,15.1,22,4140000,1012,Hijau,Indonesia,,0
+PLG0171,31,Yogyakarta,Marketplace,Silver,Transfer Bank,Ya,30,7,333000,2331000,50,3,5.8,26.3,20,5090000,3880,Biru,Indonesia,,0
+PLG0172,61,Surabaya,Organik,Gold,E-Wallet,Tidak,20,2,173000,346000,55,3,5.3,11.6,24,10100000,3302,Kuning,Indonesia,,1
+PLG0173,20,Surabaya,Organik,Platinum,COD,Ya,21,13,56000,728000,49,2,6.4,14.6,13,11080000,7476,Kuning,Indonesia,,0
+PLG0174,44,Yogyakarta,Marketplace,Bronze,Kartu Kredit,Ya,1,10,242000,2420000,39,0,7.2,21.7,8,6290000,7844,Merah,Indonesia,,0
+PLG0175,18,Medan,Marketplace,Gold,COD,Ya,44,8,266000,2128000,29,2,6.8,9.8,2,2190000,8465,Biru,Indonesia,,0
+PLG0176,49,Yogyakarta,Marketplace,Gold,COD,Tidak,22,15,267000,4005000,17,3,8.2,23.2,23,6910000,453,Merah,Indonesia,,0
+PLG0177,33,Bandung,Organik,Bronze,COD,Tidak,50,9,162000,1458000,38,0,7.8,5.4,16,22440000,8374,Hijau,Indonesia,,0
+PLG0178,39,Surabaya,Organik,Gold,E-Wallet,Tidak,37,8,404000,3232000,77,0,7.8,2.3,13,8880000,3719,Merah,Indonesia,,0
+PLG0179,40,Surabaya,Referral,Silver,E-Wallet,Tidak,25,17,,,95,0,9,14.6,,3540000,3474,Hijau,Indonesia,,0
+PLG0180,32,Bandung,Iklan,Silver,E-Wallet,Tidak,12,0,1291000,0,100,4,4.5,14.2,5,8630000,5848,Hijau,Indonesia,B,1
+PLG0181,,Surabaya,Referral,Silver,COD,Tidak,7,17,,6001000,21,0,9.2,5.7,18,6050000,7575,Kuning,Indonesia,,0
+PLG0182,36,Yogyakarta,Organik,,Kartu Kredit,Tidak,12,0,354000,0,43,1,5.7,22.9,9,5830000,5463,Kuning,Indonesia,,0
+PLG0183,43,Medan,Referral,Silver,COD,Ya,59,6,183000,1098000,15,0,7.6,4.3,12,2930000,4466,Hijau,Indonesia,,0
+PLG0184,27,,Iklan,Gold,E-Wallet,Ya,21,4,252000,1008000,70,0,5.5,20.1,11,,9799,Hijau,Indonesia,,0
+PLG0185,47,Yogyakarta,Organik,Silver,Kartu Kredit,Ya,30,8,221000,1768000,39,4,4.9,11.6,11,7640000,2998,Hijau,Indonesia,C,0
+PLG0186,22,Yogyakarta,Iklan,Bronze,Transfer Bank,Ya,33,10,151000,,32,0,6.7,8.2,8,6360000,3465,Merah,Indonesia,B,0
+PLG0187,35,Surabaya,Marketplace,Silver,Kartu Kredit,Tidak,11,2,166000,332000,12,0,7.5,9.5,9,10770000,2050,Biru,Indonesia,,0
+PLG0188,29,Yogyakarta,Organik,Platinum,E-Wallet,Tidak,10,7,366000,2562000,67,1,8.1,1.3,12,3780000,5320,Biru,Indonesia,,0
+PLG0189,21,Surabaya,Organik,Bronze,COD,Ya,1,3,84000,252000,10,4,7,1.7,5,7360000,6583,Merah,Indonesia,,1
+PLG0190,34,Medan,,Bronze,E-Wallet,Ya,,4,83000,332000,105,0,6.9,18.6,8,4720000,9480,Merah,Indonesia,C,0
+PLG0191,36,Jakarta,Marketplace,Bronze,COD,Ya,53,12,659000,7908000,67,0,7.7,28.1,6,1790000,3069,Biru,Indonesia,,0
+PLG0192,28,Bandung,Referral,Gold,E-Wallet,Ya,37,3,283000,849000,78,0,6.5,17.5,11,,9699,Merah,Indonesia,,1
+PLG0193,42,Medan,Iklan,Bronze,Kartu Kredit,Tidak,44,1,281000,281000,43,4,5.5,22,17,4820000,6222,Hijau,Indonesia,,0
+PLG0194,66,Medan,Organik,Silver,Kartu Kredit,Tidak,1,2,498000,996000,26,2,5.5,28.3,12,7260000,3151,Hijau,Indonesia,,0
+PLG0195,30,Surabaya,Iklan,Platinum,COD,Ya,20,14,402000,5628000,63,0,6.9,23.3,,7780000,8905,Biru,Indonesia,,0
+PLG0196,38,Jakarta,Marketplace,Platinum,Transfer Bank,Tidak,7,11,388000,4268000,119,0,9.3,3.9,0,3430000,2193,Kuning,Indonesia,,1
+PLG0197,42,Medan,Iklan,Platinum,E-Wallet,Tidak,14,7,260000,1820000,91,0,7.2,,3,23490000,9612,Biru,Indonesia,,0
+PLG0198,,Surabaya,Referral,Platinum,Transfer Bank,Ya,7,8,239000,1912000,71,0,7.4,,5,4430000,1601,Biru,Indonesia,,0
+PLG0199,41,Yogyakarta,Marketplace,Silver,COD,Ya,60,7,,1561000,1,0,8.3,22.2,12,,2806,Kuning,Indonesia,,0
+PLG0200,27,Medan,Marketplace,Bronze,E-Wallet,Ya,23,3,270000,810000,26,0,6,18,2,4060000,8081,Biru,Indonesia,,0
+PLG0201,44,Jakarta,Marketplace,Silver,Kartu Kredit,Ya,50,15,,2055000,40,0,8.9,18.3,9,4520000,4105,Merah,Indonesia,,0
+PLG0202,39,Bandung,Iklan,Silver,COD,Tidak,60,15,568000,8520000,114,0,6,1.2,6,10930000,6630,Biru,Indonesia,,1
+PLG0203,40,Yogyakarta,Marketplace,Platinum,E-Wallet,Ya,3,12,347000,4164000,116,0,8.9,,3,9990000,3354,Biru,Indonesia,,0
+PLG0204,28,Bandung,Marketplace,Platinum,COD,Tidak,21,,164000,984000,95,0,7.5,3.7,11,4710000,2412,Kuning,Indonesia,,0
+PLG0205,19,Yogyakarta,Iklan,Silver,COD,Tidak,30,7,199000,1393000,95,1,4,14.4,4,4300000,694,Biru,Indonesia,,1
+PLG0206,31,,Marketplace,Platinum,Kartu Kredit,Tidak,5,14,706000,,57,3,9.2,18.7,12,2490000,4626,Merah,Indonesia,,0
+PLG0207,40,Bandung,Marketplace,Bronze,E-Wallet,Tidak,11,0,416000,0,54,0,8.2,24.4,8,5350000,7600,Merah,Indonesia,,0
+PLG0208,27,Bandung,Iklan,Silver,Kartu Kredit,Ya,41,13,278000,3614000,102,2,6.3,,10,5160000,7219,Biru,Indonesia,,1
+PLG0209,52,Medan,Organik,Gold,COD,Tidak,47,3,261000,783000,80,0,9,6.7,17,,8218,Biru,Indonesia,,0
+PLG0210,,Surabaya,Iklan,Silver,E-Wallet,Tidak,56,14,364000,5096000,13,2,,4.9,17,8080000,1664,Merah,Indonesia,,0
+PLG0211,31,Bandung,Iklan,Gold,COD,Ya,34,7,87000,609000,3,0,10,19.3,16,5030000,6651,Merah,Indonesia,,0
+PLG0212,53,Medan,Referral,Silver,E-Wallet,Tidak,30,5,366000,1830000,38,0,8.5,3.1,13,3450000,6821,Biru,Indonesia,,0
+PLG0213,42,Bandung,,Bronze,Transfer Bank,Tidak,34,5,630000,3150000,,1,6.9,17.1,14,5180000,3618,Biru,Indonesia,,1
+PLG0214,42,Yogyakarta,Marketplace,Silver,Transfer Bank,Ya,37,8,187000,1496000,66,0,8.7,25.1,0,,5091,Biru,Indonesia,A,0
+PLG0215,28,Bandung,Marketplace,Gold,Kartu Kredit,Ya,59,4,530000,2120000,74,0,8.9,8.6,12,12310000,9977,Hijau,Indonesia,,0
+PLG0216,24,Bandung,Organik,Silver,Kartu Kredit,Ya,33,12,306000,3672000,45,0,5.5,23.1,16,7170000,6823,Hijau,Indonesia,,0
+PLG0217,30,Yogyakarta,Organik,Gold,Transfer Bank,Ya,47,15,,2295000,42,,2.8,6.5,17,5620000,9533,Hijau,Indonesia,,0
+PLG0218,39,Jakarta,Organik,Platinum,Kartu Kredit,Ya,5,15,470000,7050000,5,3,4.8,7,9,2240000,4460,Biru,Indonesia,,0
+PLG0219,33,Jakarta,Referral,Gold,Kartu Kredit,Ya,18,10,428000,4280000,38,0,8,13.8,5,,9797,Hijau,Indonesia,,0
+PLG0220,40,Yogyakarta,Organik,Silver,COD,Tidak,6,12,548000,,53,3,7.1,10.3,,4540000,9228,Hijau,Indonesia,,0
+PLG0221,,Yogyakarta,Referral,Gold,COD,Ya,54,2,483000,966000,51,2,8.5,,15,11700000,5637,Hijau,Indonesia,,0
+PLG0222,28,Bandung,Marketplace,,COD,Ya,32,13,233000,3029000,,0,7.8,1.7,9,3740000,1362,Kuning,Indonesia,,0
+PLG0223,,Jakarta,Iklan,Gold,COD,Tidak,15,6,264000,1584000,103,1,5.4,23.7,0,3720000,2557,Hijau,Indonesia,,1
+PLG0224,33,Jakarta,Marketplace,Gold,Kartu Kredit,Tidak,18,6,343000,2058000,119,0,6.7,25.8,0,8090000,1484,Merah,Indonesia,,1
+PLG0225,,,Referral,Silver,COD,Ya,,8,335000,2680000,48,3,7.9,10.4,11,2410000,4719,Hijau,Indonesia,,0
+PLG0226,33,Bandung,Referral,Silver,Transfer Bank,Ya,48,5,195000,975000,94,3,6.6,,8,4980000,8478,Biru,Indonesia,,0
+PLG0227,35,Yogyakarta,Iklan,Silver,Kartu Kredit,Tidak,52,2,311000,622000,35,0,4.4,5,7,5690000,1985,Merah,Indonesia,,0
+PLG0228,54,Bandung,Organik,,Transfer Bank,Ya,12,12,221000,2652000,100,0,5.2,20.1,7,3580000,831,Merah,Indonesia,,1
+PLG0229,21,Medan,Referral,Gold,E-Wallet,Tidak,49,15,,2100000,9,0,9.5,0.9,7,2920000,9670,Merah,Indonesia,,0
+PLG0230,18,Jakarta,Iklan,Bronze,Kartu Kredit,Ya,53,7,206000,1442000,95,0,7.5,0.2,9,8620000,9144,Hijau,Indonesia,,1
+PLG0231,46,Bandung,Referral,Bronze,Transfer Bank,Ya,51,10,280000,2800000,26,4,3.8,3.2,12,3820000,6010,Hijau,Indonesia,,1
+PLG0232,49,Jakarta,Referral,,Transfer Bank,Ya,23,6,261000,1566000,91,0,7.5,16.5,13,7020000,2640,Kuning,Indonesia,,0
+PLG0233,29,Surabaya,Iklan,Bronze,COD,Tidak,6,11,354000,3894000,2,0,,26.8,21,3590000,9508,Merah,Indonesia,C,0
+PLG0234,40,Bandung,Iklan,Gold,,Tidak,11,12,110000,1320000,99,0,8.6,26.9,8,12960000,365,Kuning,Indonesia,,0
+PLG0235,36,Jakarta,Marketplace,Platinum,Transfer Bank,Tidak,13,13,474000,6162000,74,0,10,3.8,3,6150000,701,Kuning,Indonesia,,0
+PLG0236,51,Medan,Iklan,Gold,E-Wallet,Ya,16,13,424000,5512000,58,0,8.8,27,0,8870000,167,Kuning,Indonesia,,0
+PLG0237,51,Bandung,Iklan,Platinum,COD,Tidak,12,16,,12864000,105,0,7.7,29.9,15,2890000,7867,Hijau,Indonesia,,1
+PLG0238,35,Bandung,Referral,Platinum,Kartu Kredit,Ya,53,3,945000,2835000,104,,7.6,6.8,0,5140000,4944,Kuning,Indonesia,C,1
+PLG0239,21,Yogyakarta,Organik,Silver,Transfer Bank,Ya,50,5,364000,1820000,,0,7.5,26.9,12,2860000,5969,Biru,Indonesia,,0
+PLG0240,33,Bandung,Iklan,Platinum,COD,Tidak,3,0,357000,0,40,0,7.9,,17,5100000,4267,Kuning,Indonesia,,0
+PLG0241,43,Surabaya,Iklan,Gold,COD,Tidak,59,14,392000,5488000,22,0,8.3,,14,2990000,5258,Merah,Indonesia,,0
+PLG0242,27,Jakarta,Iklan,Gold,COD,Ya,26,7,241000,1687000,42,3,7.6,19.6,16,3920000,7410,Biru,Indonesia,A,0
+PLG0243,47,Jakarta,Referral,Silver,Transfer Bank,Tidak,50,17,371000,6307000,25,0,8.4,8.9,12,13480000,9910,Kuning,Indonesia,,0
+PLG0244,50,Bandung,Iklan,Silver,COD,,16,16,310000,4960000,54,0,7.2,18.7,12,9350000,2770,Kuning,Indonesia,,0
+PLG0245,21,Bandung,Iklan,Silver,COD,Ya,8,12,312000,3744000,116,1,5.4,20.6,4,4290000,8601,Hijau,Indonesia,,1
+PLG0246,49,Surabaya,Organik,Platinum,COD,Ya,35,9,399000,3591000,41,4,2.2,4.5,11,7570000,1425,Kuning,Indonesia,,0
+PLG0247,53,Medan,Iklan,Bronze,Transfer Bank,Ya,26,7,398000,2786000,49,0,8,11.5,10,9800000,7240,Hijau,Indonesia,,0
+PLG0248,31,Surabaya,Organik,,Kartu Kredit,Ya,32,10,130000,1300000,71,2,5.3,28.1,6,2950000,1811,Merah,Indonesia,,0
+PLG0249,36,Medan,Organik,Gold,,Ya,29,9,382000,3438000,54,0,8.3,9.8,10,5480000,5750,Kuning,Indonesia,,0
+PLG0250,51,Surabaya,Iklan,Bronze,COD,Tidak,13,13,356000,,54,0,10,26.2,15,,6215,Biru,Indonesia,,0
+PLG0251,41,Yogyakarta,Marketplace,Gold,COD,Ya,26,,355000,4260000,95,0,8.4,3.7,6,4520000,8185,Merah,Indonesia,,1
+PLG0252,,Surabaya,Organik,Platinum,Kartu Kredit,Tidak,51,9,447000,4023000,27,0,8.7,10.9,27,,8399,Biru,Indonesia,C,0
+PLG0253,35,Jakarta,Iklan,Silver,Kartu Kredit,Tidak,27,15,145000,2175000,28,,8.1,28.8,8,7380000,6819,Biru,Indonesia,,0
+PLG0254,44,Bandung,Organik,Platinum,Kartu Kredit,Ya,,12,342000,4104000,98,4,5.4,4.6,7,3850000,8124,Hijau,Indonesia,,1
+PLG0255,46,Bandung,Iklan,Platinum,Transfer Bank,Tidak,34,8,183000,1464000,112,0,9.3,9.3,11,8930000,6260,Merah,Indonesia,,0
+PLG0256,38,Surabaya,Marketplace,Platinum,Transfer Bank,Tidak,28,4,180000,720000,4,4,5.3,,17,,7504,Biru,Indonesia,,0
+PLG0257,23,Yogyakarta,Iklan,Silver,Kartu Kredit,Tidak,15,3,545000,1635000,52,0,10,16.2,21,,8785,Hijau,Indonesia,,0
+PLG0258,44,Jakarta,Iklan,Platinum,COD,Tidak,52,3,105000,315000,9,0,7.2,3.3,11,4710000,9581,Biru,Indonesia,B,0
+PLG0259,39,,Organik,Platinum,E-Wallet,Ya,29,1,821000,821000,96,0,10,,7,3090000,3807,Kuning,Indonesia,,0
+PLG0260,28,Surabaya,Referral,Platinum,E-Wallet,Tidak,25,3,446000,1338000,103,0,,5.4,3,,4586,Kuning,Indonesia,,0
+PLG0261,29,Yogyakarta,Organik,Silver,Transfer Bank,Tidak,33,5,263000,1315000,111,4,,,,6500000,226,Hijau,Indonesia,,1
+PLG0262,43,Jakarta,Marketplace,Bronze,E-Wallet,Ya,2,7,152000,1064000,102,0,8.3,4.8,10,4040000,522,Kuning,Indonesia,,0
+PLG0263,25,Bandung,Organik,Bronze,Kartu Kredit,Tidak,23,0,291000,0,21,0,9.1,4.4,15,2780000,9611,Biru,Indonesia,,0
+PLG0264,33,Bandung,Referral,Silver,Transfer Bank,Tidak,21,1,395000,395000,2,0,8.8,9.2,11,3010000,5826,Biru,Indonesia,,0
+PLG0265,54,Jakarta,Iklan,Bronze,E-Wallet,Tidak,23,5,477000,2385000,31,0,10,10.3,20,3940000,4675,Merah,Indonesia,,0
+PLG0266,27,,Referral,Platinum,E-Wallet,Ya,12,7,244000,1708000,,4,5.9,7.9,15,4030000,6924,Hijau,Indonesia,,1
+PLG0267,28,Surabaya,Organik,Bronze,COD,Tidak,42,7,292000,2044000,58,0,9.7,21.1,7,4510000,8067,Hijau,Indonesia,,0
+PLG0268,56,Yogyakarta,Organik,Gold,Transfer Bank,Tidak,9,11,,3773000,80,0,8.7,16.1,2,9310000,8381,Hijau,Indonesia,,1
+PLG0269,33,Bandung,Referral,Platinum,Kartu Kredit,Tidak,28,17,419000,7123000,38,0,7.3,28.4,16,,2820,Biru,Indonesia,,0
+PLG0270,18,Yogyakarta,Organik,Gold,COD,Ya,5,14,173000,2422000,48,4,5.9,24,14,5990000,6745,Kuning,Indonesia,,0
+PLG0271,18,Surabaya,Iklan,Bronze,Kartu Kredit,Ya,54,6,339000,2034000,16,0,4.9,0.4,2,6800000,6774,Merah,Indonesia,,0
+PLG0272,23,Medan,Organik,Bronze,E-Wallet,Tidak,53,3,362000,1086000,63,1,6.9,22.7,9,6230000,4718,Hijau,Indonesia,,1
+PLG0273,53,Yogyakarta,Iklan,Gold,E-Wallet,Ya,9,6,303000,1818000,1,0,6.4,3.9,13,4050000,1007,Kuning,Indonesia,,0
+PLG0274,35,Bandung,Iklan,Silver,Transfer Bank,Ya,37,3,96000,288000,108,,5.7,25.5,0,7660000,9481,Kuning,Indonesia,,1
+PLG0275,23,Yogyakarta,Organik,Gold,Transfer Bank,Ya,44,16,264000,4224000,37,0,10,21.5,10,3170000,6669,Kuning,Indonesia,,0
+PLG0276,27,Jakarta,Referral,Silver,Transfer Bank,Ya,56,5,327000,1635000,63,3,5.1,20.3,11,,3467,Hijau,Indonesia,C,1
+PLG0277,47,Medan,Referral,Silver,COD,Ya,14,13,606000,7878000,18,0,7.1,2.3,15,21050000,3885,Hijau,Indonesia,B,0
+PLG0278,56,Yogyakarta,Iklan,Platinum,Kartu Kredit,Tidak,13,15,155000,2325000,78,0,7.6,12.9,11,2930000,5435,Merah,Indonesia,,0
+PLG0279,47,Jakarta,Marketplace,Silver,E-Wallet,Tidak,47,2,107000,214000,3,3,3.2,6.3,10,6810000,4731,Hijau,Indonesia,,0
+PLG0280,54,Yogyakarta,Referral,Gold,COD,Tidak,5,10,428000,4280000,96,0,7.2,24.5,16,4770000,9469,Biru,Indonesia,,1
+PLG0281,38,Yogyakarta,Marketplace,,E-Wallet,Ya,3,6,146000,876000,100,1,7.6,8.8,12,5240000,1381,Merah,Indonesia,,1
+PLG0282,42,Bandung,Marketplace,,Transfer Bank,Ya,55,14,289000,4046000,30,1,5.4,22.1,14,3860000,1075,Biru,Indonesia,,0
+PLG0283,52,Medan,Iklan,Silver,E-Wallet,Tidak,23,12,327000,3924000,120,0,,8.6,2,7140000,5316,Kuning,Indonesia,,1
+PLG0284,18,Medan,Marketplace,Silver,Transfer Bank,Tidak,31,0,,0,78,0,9.9,11,5,3460000,3186,Merah,Indonesia,,0
+PLG0285,41,Medan,Marketplace,Bronze,COD,Ya,12,7,372000,2604000,60,0,,24.4,0,5120000,1164,Merah,Indonesia,,0
+PLG0286,27,Yogyakarta,Referral,Platinum,Kartu Kredit,Ya,10,13,275000,3575000,42,0,7.8,26.2,14,9200000,5750,Kuning,Indonesia,,0
+PLG0287,39,Bandung,Iklan,Gold,,Ya,59,3,251000,753000,106,0,,14.8,6,8490000,488,Merah,Indonesia,,0
+PLG0288,34,Medan,Organik,Gold,Kartu Kredit,Ya,23,0,,0,,0,6.1,4.7,10,6590000,6095,Hijau,Indonesia,,0
+PLG0289,21,Medan,Organik,Bronze,Transfer Bank,Ya,22,17,274000,,20,4,5.8,26,5,4540000,4279,Hijau,Indonesia,,0
+PLG0290,34,Surabaya,Referral,Gold,COD,Ya,40,4,176000,704000,50,0,9.1,14.7,11,6760000,3118,Hijau,Indonesia,,1
+PLG0291,37,Yogyakarta,Marketplace,Platinum,Transfer Bank,Ya,42,15,388000,5820000,94,3,4.4,22.9,12,9390000,431,Kuning,Indonesia,,1
+PLG0292,,Jakarta,Marketplace,,COD,Ya,23,0,124000,0,42,0,7.5,17.7,17,7910000,5834,Hijau,Indonesia,,0
+PLG0293,,Medan,Iklan,Silver,COD,Ya,5,17,,4505000,,1,9.9,5.3,15,1910000,1829,Biru,Indonesia,,0
+PLG0294,40,Medan,Marketplace,Gold,Transfer Bank,Ya,45,5,156000,,84,1,6.8,6.2,17,,4147,Hijau,Indonesia,,1
+PLG0295,35,Bandung,Marketplace,Gold,Transfer Bank,Tidak,43,9,151000,1359000,50,0,,4.5,15,2450000,292,Biru,Indonesia,,0
+PLG0296,45,Yogyakarta,,Gold,Kartu Kredit,Ya,31,0,108000,0,37,0,8.9,5.2,8,4170000,5172,Biru,Indonesia,,0
+PLG0297,27,Jakarta,Organik,Silver,COD,Ya,49,4,106000,424000,92,0,8,7.6,11,3170000,62,Hijau,Indonesia,,0
+PLG0298,37,Jakarta,Marketplace,Gold,Transfer Bank,Ya,55,10,116000,1160000,55,0,8.1,13.8,18,4610000,1078,Kuning,Indonesia,C,0
+PLG0299,,Jakarta,Marketplace,Gold,COD,Tidak,25,5,374000,1870000,120,3,5.1,25.4,4,4030000,8465,Merah,Indonesia,,1
+PLG0300,47,Surabaya,Iklan,Silver,COD,Tidak,4,12,137000,1644000,84,0,7.5,8.8,0,4290000,1553,Hijau,Indonesia,,1
+PLG0301,47,,Organik,,E-Wallet,Ya,26,10,157000,1570000,39,0,7.7,12.5,14,6030000,4958,Kuning,Indonesia,,0
+PLG0302,40,Yogyakarta,Organik,,E-Wallet,Ya,45,15,118000,1770000,30,3,5.6,3.6,18,4110000,765,Kuning,Indonesia,,0
+PLG0303,41,Medan,Organik,Platinum,E-Wallet,Ya,14,8,165000,1320000,76,0,8.2,21.7,7,2600000,5916,Hijau,Indonesia,,0
+PLG0304,18,Jakarta,Marketplace,Bronze,COD,Ya,14,5,255000,1275000,79,0,9,3.9,6,5600000,6167,Merah,Indonesia,A,0
+PLG0305,45,,Referral,Bronze,E-Wallet,Tidak,45,2,866000,1732000,46,0,7.6,13.6,12,5530000,7758,Biru,Indonesia,,0
+PLG0306,30,Bandung,Organik,Platinum,Kartu Kredit,Tidak,30,9,352000,3168000,116,0,10,20.1,3,1660000,6815,Kuning,Indonesia,,0
+PLG0307,18,Medan,Iklan,Bronze,COD,Tidak,11,9,76000,684000,46,3,6.5,,8,3570000,741,Kuning,Indonesia,A,1
+PLG0308,20,Yogyakarta,Referral,,COD,Tidak,39,3,249000,747000,91,0,9.9,8.4,7,9430000,754,Biru,Indonesia,,0
+PLG0309,33,Surabaya,Referral,Gold,Kartu Kredit,Tidak,46,17,95000,1615000,58,0,10,28.7,7,9430000,1436,Hijau,Indonesia,,0
+PLG0310,18,Yogyakarta,,Silver,Kartu Kredit,Tidak,5,4,478000,1912000,95,1,6.5,21.9,11,5250000,2355,Hijau,Indonesia,,1
+PLG0311,42,Yogyakarta,Iklan,Gold,E-Wallet,Tidak,16,13,504000,6552000,91,0,5.9,29.9,2,3890000,8358,Hijau,Indonesia,,1
+PLG0312,18,Bandung,Marketplace,Platinum,Kartu Kredit,Ya,29,17,422000,7174000,99,3,8.2,5.1,10,7590000,5398,Kuning,Indonesia,,0
+PLG0313,52,Bandung,Marketplace,Gold,Kartu Kredit,Tidak,3,6,55000,330000,46,2,7.3,2.2,5,3940000,5455,Merah,Indonesia,,0
+PLG0314,,Yogyakarta,Marketplace,Platinum,Kartu Kredit,Ya,4,1,121000,121000,116,0,7.3,4.3,0,9720000,6894,Kuning,Indonesia,,0
+PLG0315,36,Bandung,Organik,Gold,E-Wallet,Tidak,33,12,167000,2004000,31,,6.4,14.4,17,5510000,6509,Kuning,Indonesia,,0
+PLG0316,18,Medan,Referral,Silver,Transfer Bank,Tidak,50,5,,1020000,52,0,6.7,9.1,12,5210000,9936,Hijau,Indonesia,C,1
+PLG0317,30,Yogyakarta,Marketplace,Bronze,Kartu Kredit,Tidak,9,12,89000,1068000,48,0,,16.9,8,6590000,1334,Biru,Indonesia,,0
+PLG0318,33,Jakarta,Marketplace,Platinum,Transfer Bank,Tidak,9,8,214000,1712000,84,0,8,22,9,3480000,6964,Hijau,Indonesia,,0
+PLG0319,35,Bandung,Marketplace,Silver,Transfer Bank,Tidak,2,4,498000,1992000,53,0,9.5,3.2,13,3390000,9967,Hijau,Indonesia,,0
+PLG0320,34,Jakarta,Organik,Bronze,Transfer Bank,Ya,18,14,372000,5208000,23,0,8,16.9,13,7860000,2507,Merah,Indonesia,A,0
+PLG0321,29,Medan,Marketplace,Gold,COD,Ya,49,11,334000,3674000,104,0,8.3,,8,2190000,7283,Biru,Indonesia,,0
+PLG0322,25,Surabaya,Marketplace,Silver,Transfer Bank,Tidak,39,6,246000,1476000,64,1,7,2.4,9,24200000,1041,Biru,Indonesia,,1
+PLG0323,37,Medan,Marketplace,Silver,COD,Tidak,48,4,260000,1040000,23,0,10,0.4,10,,1302,Merah,Indonesia,,0
+PLG0324,18,Surabaya,Organik,Platinum,Kartu Kredit,,42,5,200000,1000000,45,0,9.8,9.7,14,7620000,9095,Kuning,Indonesia,,0
+PLG0325,33,Surabaya,Organik,Silver,COD,Ya,48,,,6135000,21,0,5.8,21.9,16,6800000,9297,Kuning,Indonesia,,0
+PLG0326,30,Jakarta,,Gold,COD,Tidak,45,11,255000,2805000,46,3,3.9,23.4,0,3610000,3135,Biru,Indonesia,,0
+PLG0327,39,Yogyakarta,Referral,Bronze,Kartu Kredit,Tidak,1,16,212000,3392000,68,0,7.6,29.9,18,3520000,8690,Merah,Indonesia,,0
+PLG0328,52,,Marketplace,Bronze,Transfer Bank,Tidak,56,0,162000,0,64,0,,14.5,16,7530000,520,Merah,Indonesia,,0
+PLG0329,28,Bandung,Organik,Gold,Kartu Kredit,Ya,54,8,234000,1872000,84,0,7.8,27.2,1,1460000,5189,Biru,Indonesia,,0
+PLG0330,34,Bandung,Iklan,Gold,Kartu Kredit,Ya,41,15,260000,3900000,,3,8.6,4.7,5,5610000,2187,Hijau,Indonesia,B,1
+PLG0331,40,Jakarta,Iklan,Gold,E-Wallet,Tidak,13,12,310000,3720000,24,0,6.4,12.9,1,7690000,3777,Kuning,Indonesia,C,0
+PLG0332,36,Medan,Organik,Platinum,Transfer Bank,Ya,11,6,252000,1512000,45,0,,23.9,18,,2328,Kuning,Indonesia,,0
+PLG0333,30,Jakarta,,Bronze,Transfer Bank,Tidak,28,0,262000,0,23,0,,22.6,13,4830000,467,Hijau,Indonesia,,0
+PLG0334,40,Surabaya,Organik,Bronze,E-Wallet,Tidak,41,0,494000,0,103,2,4.9,15.8,0,15320000,5051,Merah,Indonesia,,1
+PLG0335,44,Bandung,Iklan,Gold,E-Wallet,Ya,35,16,292000,4672000,35,0,9.5,,21,3780000,2193,Merah,Indonesia,,0
+PLG0336,58,Surabaya,Organik,Silver,E-Wallet,Ya,19,8,197000,1576000,111,,2.2,5.4,0,2890000,2591,Biru,Indonesia,,1
+PLG0337,39,Bandung,Iklan,,Kartu Kredit,Ya,20,14,663000,9282000,64,0,9.6,24.2,16,4520000,3247,Kuning,Indonesia,,0
+PLG0338,47,Bandung,Iklan,Platinum,E-Wallet,Ya,9,8,193000,1544000,89,0,7.7,7.7,4,5130000,1494,Kuning,Indonesia,C,0
+PLG0339,,Surabaya,Marketplace,Gold,COD,Tidak,48,5,453000,2265000,31,0,5.9,10.2,1,3080000,9309,Biru,Indonesia,,0
+PLG0340,27,Medan,Iklan,Platinum,COD,Tidak,1,9,210000,1890000,14,0,8.7,16,9,,4682,Kuning,Indonesia,,0
+PLG0341,33,Jakarta,Organik,Silver,Kartu Kredit,Ya,18,7,378000,2646000,34,2,5.1,12,9,6070000,537,Hijau,Indonesia,,1
+PLG0342,55,Bandung,Iklan,Silver,E-Wallet,Ya,54,11,474000,5214000,3,0,7.5,16.4,12,7130000,6538,Biru,Indonesia,,0
+PLG0343,50,Surabaya,Referral,Bronze,Kartu Kredit,Tidak,14,6,761000,4566000,120,2,6.8,13.2,11,5740000,3022,Hijau,Indonesia,,1
+PLG0344,48,Bandung,Marketplace,Gold,COD,Ya,47,8,271000,2168000,69,0,10,19.7,5,10210000,9806,Merah,Indonesia,,0
+PLG0345,55,Jakarta,Iklan,Gold,Kartu Kredit,Tidak,1,12,,6396000,17,3,3.5,8.1,14,5460000,6609,Merah,Indonesia,,0
+PLG0346,33,Bandung,Iklan,Bronze,Transfer Bank,Tidak,50,17,241000,4097000,30,,6.5,3.8,19,9010000,2594,Biru,Indonesia,,0
+PLG0347,73,Surabaya,Referral,Silver,Kartu Kredit,Tidak,5,0,203000,0,84,3,,25.9,15,4250000,7695,Biru,Indonesia,,1
+PLG0348,27,Surabaya,Organik,Platinum,Transfer Bank,Ya,50,13,167000,2171000,88,4,4,,3,9610000,1253,Hijau,Indonesia,,1
+PLG0349,18,Jakarta,Referral,Bronze,Transfer Bank,Tidak,32,9,898000,,17,0,10,11.2,12,,6603,Biru,Indonesia,,0
+PLG0350,46,Yogyakarta,Marketplace,Silver,Transfer Bank,Tidak,21,7,254000,1778000,21,0,9.2,22.5,14,,9442,Kuning,Indonesia,,0
+PLG0351,18,Medan,Iklan,Silver,E-Wallet,Tidak,,10,202000,2020000,51,1,7,6.1,15,5250000,609,Biru,Indonesia,,0
+PLG0352,26,Bandung,Marketplace,Silver,Transfer Bank,Ya,4,10,327000,3270000,84,0,8.1,2.6,7,11340000,6272,Merah,Indonesia,,0
+PLG0353,43,,Referral,Gold,Kartu Kredit,Ya,38,13,137000,1781000,30,0,5.6,3.9,21,8470000,144,Merah,Indonesia,,0
+PLG0354,,Yogyakarta,Iklan,Platinum,Kartu Kredit,Ya,29,12,407000,4884000,23,0,10,22.6,16,5350000,5180,Kuning,Indonesia,,0
+PLG0355,39,Medan,Marketplace,Silver,Kartu Kredit,Ya,1,7,387000,2709000,27,1,7.2,29.7,4,6850000,1299,Merah,Indonesia,,0
+PLG0356,33,Jakarta,Marketplace,Platinum,COD,Ya,26,4,150000,600000,13,1,6.7,12.7,14,4580000,1883,Biru,Indonesia,,0
+PLG0357,21,Yogyakarta,Marketplace,,E-Wallet,Ya,44,0,144000,0,60,0,7.7,19.5,16,5030000,5614,Kuning,Indonesia,,0
+PLG0358,32,Surabaya,Marketplace,Bronze,COD,Ya,39,11,188000,2068000,95,0,,7.8,6,6160000,4865,Hijau,Indonesia,,0
+PLG0359,39,Surabaya,Iklan,Platinum,E-Wallet,Ya,24,6,342000,2052000,90,1,5.8,24.5,13,5520000,9312,Hijau,Indonesia,,0
+PLG0360,27,Medan,Iklan,Gold,Transfer Bank,Ya,23,17,706000,12002000,67,0,3.8,4.6,8,4940000,9093,Biru,Indonesia,,0
+PLG0361,47,Medan,Referral,Platinum,COD,Ya,38,12,877000,10524000,81,0,10,14.1,8,5440000,9376,Biru,Indonesia,,0
+PLG0362,37,Surabaya,Iklan,Bronze,Transfer Bank,Ya,23,17,199000,3383000,78,0,8.2,6.6,5,2880000,5116,Merah,Indonesia,,0
+PLG0363,18,Jakarta,Iklan,Platinum,COD,,48,1,153000,153000,5,2,4.6,29.7,9,4130000,8469,Hijau,Indonesia,,0
+PLG0364,38,Bandung,Marketplace,Platinum,Kartu Kredit,Ya,,7,564000,3948000,79,,9.6,29,15,,6614,Kuning,Indonesia,,0
+PLG0365,28,Bandung,Organik,Silver,COD,Ya,36,7,296000,2072000,68,4,5,13.9,12,1620000,5735,Merah,Indonesia,,1
+PLG0366,39,Yogyakarta,,Silver,Kartu Kredit,Tidak,45,5,170000,850000,15,0,9.2,23.4,14,2930000,5952,Hijau,Indonesia,,0
+PLG0367,23,Bandung,Marketplace,Silver,COD,Tidak,10,14,252000,3528000,81,0,,25.7,,9330000,7805,Kuning,Indonesia,,0
+PLG0368,21,Yogyakarta,Marketplace,Gold,COD,Tidak,6,15,,2070000,61,0,8,4,10,8510000,701,Kuning,Indonesia,,0
+PLG0369,,Surabaya,Iklan,,Transfer Bank,Ya,13,8,1034000,8272000,23,3,4.9,,17,3650000,6192,Hijau,Indonesia,,0
+PLG0370,32,Medan,Iklan,Platinum,Transfer Bank,Ya,20,11,303000,,6,3,7.1,18.1,9,2320000,312,Kuning,Indonesia,,0
+PLG0371,,Medan,Iklan,Platinum,Transfer Bank,Ya,34,6,775000,4650000,54,0,8.7,28.4,2,5010000,4564,Biru,Indonesia,,0
+PLG0372,42,Surabaya,Referral,Silver,Transfer Bank,,27,1,295000,295000,45,0,9.4,23,12,5790000,7466,Merah,Indonesia,,0
+PLG0373,40,Surabaya,Organik,Bronze,Transfer Bank,Ya,5,0,287000,0,28,2,10,7.7,14,3190000,4980,Hijau,Indonesia,,0
+PLG0374,39,Jakarta,Referral,Silver,Kartu Kredit,Ya,46,,360000,0,48,4,,,3,2490000,7838,Merah,Indonesia,,1
+PLG0375,44,Bandung,Referral,Silver,Kartu Kredit,Tidak,37,15,102000,1530000,21,3,5.8,8.9,12,4360000,9976,Merah,Indonesia,,0
+PLG0376,40,Bandung,Organik,,Kartu Kredit,Ya,42,15,173000,2595000,34,0,6.4,28,6,3420000,667,Kuning,Indonesia,C,0
+PLG0377,23,Medan,Organik,Gold,COD,Tidak,10,5,336000,1680000,76,0,8.1,24.4,9,5510000,8720,Biru,Indonesia,,0
+PLG0378,,Surabaya,Organik,Gold,COD,Ya,11,10,123000,1230000,73,2,4.3,,6,1500000,6973,Kuning,Indonesia,,1
+PLG0379,18,Medan,Marketplace,Silver,E-Wallet,Ya,47,8,261000,2088000,109,0,7.3,7.4,10,,6526,Biru,Indonesia,,1
+PLG0380,38,Bandung,Iklan,Silver,Transfer Bank,Ya,49,10,272000,2720000,40,0,7.9,,10,2180000,1766,Biru,Indonesia,,0
+PLG0381,36,Jakarta,Marketplace,Gold,E-Wallet,Ya,46,15,368000,5520000,52,0,10,7.8,0,,8575,Kuning,Indonesia,,0
+PLG0382,58,Jakarta,Iklan,Platinum,COD,Ya,38,11,95000,1045000,101,0,6.2,23.9,13,,4381,Kuning,Indonesia,,0
+PLG0383,46,Medan,Marketplace,Gold,COD,Tidak,57,1,850000,850000,115,0,8,11.7,7,3920000,3688,Biru,Indonesia,,0
+PLG0384,23,Medan,Referral,Gold,Kartu Kredit,Ya,12,6,289000,1734000,10,0,9.3,27.5,19,6320000,4230,Biru,Indonesia,,0
+PLG0385,60,Jakarta,,Gold,E-Wallet,Ya,59,10,354000,,40,0,10,28.7,5,5480000,3744,Merah,Indonesia,,0
+PLG0386,49,Yogyakarta,Marketplace,Silver,Kartu Kredit,Ya,5,1,186000,186000,51,0,7.5,18.2,15,5910000,7376,Biru,Indonesia,,0
+PLG0387,49,Surabaya,Marketplace,Gold,Kartu Kredit,Tidak,19,6,333000,1998000,25,2,5.3,7,15,2660000,9380,Merah,Indonesia,,1
+PLG0388,44,Surabaya,Marketplace,Silver,Kartu Kredit,Ya,44,0,921000,,,0,9.5,15.9,6,3560000,9201,Biru,Indonesia,,0
+PLG0389,42,,Marketplace,Platinum,E-Wallet,Ya,7,3,1244000,3732000,57,0,7.4,12.6,9,5980000,2326,Hijau,Indonesia,,1
+PLG0390,34,Surabaya,Marketplace,Bronze,Transfer Bank,Tidak,59,5,272000,1360000,56,0,8.2,4.8,21,6170000,3722,Hijau,Indonesia,,0
+PLG0391,31,Bandung,Referral,Silver,Kartu Kredit,Ya,22,3,199000,597000,40,0,10,27.5,20,8110000,1121,Biru,Indonesia,,0
+PLG0392,34,Surabaya,Referral,Silver,COD,Tidak,37,17,354000,6018000,93,0,,,16,7140000,3,Hijau,Indonesia,,0
+PLG0393,30,Surabaya,Referral,Gold,E-Wallet,Ya,49,0,520000,0,38,0,8.6,23.2,10,4290000,6700,Biru,Indonesia,A,0
+PLG0394,27,Yogyakarta,Organik,Silver,COD,Tidak,37,3,102000,306000,100,0,8.5,27.1,5,13000000,6339,Kuning,Indonesia,,0
+PLG0395,23,Medan,Marketplace,Bronze,Kartu Kredit,Tidak,29,13,495000,6435000,115,0,4.2,10.7,8,7930000,5709,Hijau,Indonesia,,0
+PLG0396,51,Surabaya,Iklan,Gold,Transfer Bank,Tidak,6,2,404000,808000,6,3,8.2,27,10,3520000,7584,Merah,Indonesia,,0
+PLG0397,47,Medan,Referral,Platinum,COD,Tidak,21,0,460000,0,53,0,7.4,25.6,13,2910000,9385,Kuning,Indonesia,,0
+PLG0398,46,Medan,Referral,Gold,Transfer Bank,Ya,50,6,183000,1098000,,4,5.1,29.5,6,,5722,Hijau,Indonesia,,1
+PLG0399,32,Surabaya,,Platinum,E-Wallet,Ya,36,15,183000,2745000,69,0,8.3,29.1,19,8700000,6124,Kuning,Indonesia,,0
+PLG0400,32,,Organik,,E-Wallet,Ya,2,0,167000,0,112,,5.6,11.4,1,7940000,5100,Merah,Indonesia,,0
+PLG0401,30,Surabaya,Marketplace,Gold,E-Wallet,Ya,17,2,106000,212000,118,3,6.2,,15,5310000,8224,Kuning,Indonesia,,1
+PLG0402,52,Bandung,Organik,Gold,Kartu Kredit,Tidak,42,3,286000,858000,112,0,9.4,5.2,11,4240000,2743,Hijau,Indonesia,,0
+PLG0403,18,Medan,Referral,Bronze,COD,Tidak,18,2,225000,450000,78,1,6.4,24.4,5,6280000,1418,Merah,Indonesia,,0
+PLG0404,,Yogyakarta,Referral,Gold,Kartu Kredit,Ya,55,10,234000,2340000,84,0,8.3,10.1,12,6660000,6145,Hijau,Indonesia,,1
+PLG0405,38,Yogyakarta,Referral,Bronze,E-Wallet,Ya,47,8,277000,2216000,5,2,7.6,23.6,8,12630000,9817,Biru,Indonesia,,0
+PLG0406,,Yogyakarta,Iklan,Gold,E-Wallet,,2,3,142000,426000,114,0,7.9,28.2,5,9410000,1560,Hijau,Indonesia,,1
+PLG0407,59,Surabaya,Organik,Platinum,Transfer Bank,Ya,27,1,170000,170000,12,3,,20.8,14,3590000,8224,Hijau,Indonesia,,1
+PLG0408,25,Medan,Referral,Silver,Transfer Bank,Ya,30,15,506000,7590000,88,0,,20.1,6,,5321,Kuning,Indonesia,,1
+PLG0409,19,Jakarta,Iklan,Bronze,Transfer Bank,Tidak,9,16,194000,3104000,73,3,7.2,24.9,4,6990000,1483,Merah,Indonesia,,0
+PLG0410,21,Surabaya,Iklan,Gold,COD,Tidak,34,1,551000,551000,63,4,5.1,26,4,,695,Biru,Indonesia,,1
+PLG0411,51,Bandung,Organik,Platinum,E-Wallet,Ya,56,,305000,1830000,30,2,7.4,21.2,22,1840000,3388,Biru,Indonesia,,1
+PLG0412,28,Jakarta,Referral,Silver,COD,Tidak,51,16,147000,2352000,11,3,4.7,9.2,18,7920000,2863,Merah,Indonesia,,0
+PLG0413,47,,Referral,Bronze,COD,Tidak,38,2,,386000,34,0,7.3,10.4,,4400000,8541,Biru,Indonesia,,0
+PLG0414,42,Surabaya,Iklan,Gold,COD,Tidak,42,2,581000,1162000,72,3,5.5,16.9,2,5140000,6670,Biru,Indonesia,,0
+PLG0415,59,Surabaya,Iklan,Gold,Transfer Bank,Tidak,49,13,,2405000,22,2,7.5,29.9,18,6310000,9271,Biru,Indonesia,,0
+PLG0416,38,,Marketplace,,COD,Tidak,4,11,,4807000,65,2,,23.4,9,,791,Merah,Indonesia,,0
+PLG0417,24,Jakarta,Iklan,Platinum,Kartu Kredit,Ya,57,15,283000,4245000,46,3,5.5,23.2,18,8550000,849,Merah,Indonesia,,0
+PLG0418,39,Bandung,Organik,Silver,COD,Ya,39,13,264000,3432000,34,0,6.8,15.2,9,3770000,7433,Hijau,Indonesia,,0
+PLG0419,56,Bandung,Referral,Gold,,Tidak,41,2,366000,732000,,2,6.1,1.9,17,3610000,3250,Kuning,Indonesia,,1
+PLG0420,62,Jakarta,Referral,Platinum,Transfer Bank,Tidak,19,0,247000,0,,0,5.8,9.9,0,4070000,3176,Biru,Indonesia,,1
+PLG0421,38,Surabaya,Marketplace,Silver,COD,Tidak,53,1,450000,450000,90,0,7.4,18.6,6,8660000,4367,Hijau,Indonesia,,1
+PLG0422,,Medan,Referral,Gold,E-Wallet,Tidak,36,14,174000,2436000,3,3,8.5,4.3,16,1890000,8022,Merah,Indonesia,,0
+PLG0423,37,Jakarta,Referral,Gold,E-Wallet,Tidak,34,4,248000,992000,99,0,7.8,16.9,8,2900000,1323,Merah,Indonesia,,1
+PLG0424,66,Jakarta,Organik,Platinum,COD,Ya,7,15,257000,3855000,5,0,6.8,29.2,12,1830000,8203,Hijau,Indonesia,,0
+PLG0425,54,Yogyakarta,Marketplace,Bronze,Kartu Kredit,Tidak,29,6,158000,948000,90,0,7.6,21.2,7,,1144,Hijau,Indonesia,,0
+PLG0426,30,Bandung,Organik,Platinum,COD,Tidak,19,4,722000,2888000,24,0,7.9,6.3,21,5650000,185,Hijau,Indonesia,,0
+PLG0427,46,Medan,Iklan,Bronze,E-Wallet,Tidak,8,17,474000,,6,0,8.2,7.6,6,3950000,2744,Hijau,Indonesia,,0
+PLG0428,32,Bandung,Referral,Bronze,COD,Ya,45,1,127000,127000,100,0,10,20.5,13,10290000,6572,Biru,Indonesia,,1
+PLG0429,34,Surabaya,Referral,,E-Wallet,Tidak,,3,204000,612000,54,4,5.2,25.2,15,2710000,986,Kuning,Indonesia,,1
+PLG0430,31,Medan,Iklan,Silver,COD,Ya,59,,294000,2646000,81,1,,29,19,,8730,Merah,Indonesia,,1
+PLG0431,39,Medan,Iklan,Platinum,COD,Tidak,57,5,144000,720000,56,2,6.1,22.9,11,7740000,2516,Hijau,Indonesia,,0
+PLG0432,24,Medan,Iklan,Silver,Kartu Kredit,Tidak,23,15,238000,3570000,117,0,4.7,20.5,7,,8572,Biru,Indonesia,,0
+PLG0433,22,Jakarta,Referral,Bronze,COD,Tidak,60,6,775000,4650000,10,0,6.8,0.4,11,2460000,3403,Biru,Indonesia,,0
+PLG0434,38,Bandung,Marketplace,Gold,E-Wallet,Tidak,1,10,380000,3800000,65,3,,20.4,9,8060000,5475,Biru,Indonesia,,1
+PLG0435,35,Yogyakarta,Organik,Silver,Transfer Bank,Ya,18,12,78000,936000,110,1,7.6,27.7,7,4430000,7587,Biru,Indonesia,,0
+PLG0436,45,Surabaya,Marketplace,Silver,E-Wallet,Ya,17,5,496000,2480000,90,0,6.8,0.2,9,4930000,4977,Biru,Indonesia,,0
+PLG0437,20,Yogyakarta,Referral,Platinum,E-Wallet,Tidak,43,14,482000,6748000,65,0,9.4,0.8,18,3900000,9182,Hijau,Indonesia,,1
+PLG0438,29,Medan,Referral,Bronze,COD,Tidak,58,13,108000,1404000,112,0,8.5,1.8,11,5050000,7592,Biru,Indonesia,,0
+PLG0439,50,Bandung,,Platinum,E-Wallet,Tidak,20,7,254000,1778000,33,0,7.1,,9,7820000,2858,Biru,Indonesia,,0
+PLG0440,23,Surabaya,Iklan,Gold,COD,Tidak,11,11,269000,2959000,104,0,7.4,0.7,3,4530000,4665,Merah,Indonesia,,0
+PLG0441,39,Bandung,Marketplace,Gold,COD,Ya,24,10,754000,7540000,31,0,7.5,3.2,,9870000,2138,Biru,Indonesia,,0
+PLG0442,33,Bandung,Referral,Bronze,COD,Ya,48,,157000,157000,32,0,8.1,16.3,19,4690000,6870,Merah,Indonesia,,0
+PLG0443,37,Medan,Organik,Gold,Kartu Kredit,Ya,16,14,491000,6874000,103,4,5.6,10.6,5,3770000,8474,Biru,Indonesia,,1
+PLG0444,31,Surabaya,Iklan,Silver,COD,Ya,55,2,,1128000,9,0,6.7,24.3,16,8530000,7855,Merah,Indonesia,C,0
+PLG0445,40,Bandung,Iklan,Gold,COD,Tidak,31,13,133000,1729000,15,4,2.1,25.7,19,6490000,3774,Biru,Indonesia,,0
+PLG0446,20,Medan,Referral,Gold,Kartu Kredit,Ya,47,4,195000,780000,28,,6.8,17.6,17,8870000,6394,Hijau,Indonesia,,0
+PLG0447,23,Bandung,Referral,Gold,Transfer Bank,Tidak,25,0,242000,0,60,4,7.5,21,7,6290000,6534,Kuning,Indonesia,,1
+PLG0448,50,Yogyakarta,Organik,Bronze,Kartu Kredit,Ya,60,,269000,4304000,99,0,9.6,15.5,7,6340000,9379,Kuning,Indonesia,B,1
+PLG0449,46,Surabaya,Marketplace,Silver,Transfer Bank,Ya,15,6,305000,1830000,8,2,8.1,18.2,16,3610000,1149,Merah,Indonesia,,1
+PLG0450,47,Medan,Referral,Silver,Kartu Kredit,Ya,36,6,499000,,7,0,7.6,14.2,15,10210000,5646,Biru,Indonesia,,0
+PLG0451,45,Bandung,Marketplace,Platinum,Kartu Kredit,Ya,6,3,480000,1440000,117,0,8.6,1.5,0,7060000,2392,Biru,Indonesia,,1
+PLG0452,23,Bandung,Referral,Platinum,E-Wallet,Tidak,15,1,379000,379000,16,0,9.6,4,23,5570000,7536,Merah,Indonesia,,0
+PLG0453,42,Medan,Organik,Silver,Transfer Bank,Tidak,12,0,,0,86,0,7,29.8,12,4930000,6974,Hijau,Indonesia,C,1
+PLG0454,50,Jakarta,Iklan,Silver,Transfer Bank,,11,,221000,2210000,42,1,4.5,23,18,2900000,7009,Kuning,Indonesia,B,0
+PLG0455,38,Medan,Iklan,Silver,Transfer Bank,Ya,40,13,459000,5967000,99,0,6.4,,9,,489,Merah,Indonesia,,0
+PLG0456,34,Bandung,Marketplace,Silver,COD,,29,9,119000,1071000,15,0,8.6,0,12,6110000,2032,Kuning,Indonesia,,0
+PLG0457,33,Yogyakarta,Referral,Silver,COD,Tidak,35,16,171000,2736000,105,3,6.3,12,,7280000,7209,Biru,Indonesia,,1
+PLG0458,28,Surabaya,Iklan,Silver,COD,Tidak,29,12,285000,3420000,48,0,9.1,21,13,7010000,6885,Merah,Indonesia,,0
+PLG0459,30,Surabaya,Iklan,Silver,,Tidak,57,3,281000,843000,6,0,,20.5,17,4600000,7441,Hijau,Indonesia,,0
+PLG0460,30,Jakarta,Marketplace,Silver,COD,Tidak,3,3,,,,0,7.7,29.9,15,4800000,9062,Biru,Indonesia,,0
+PLG0461,29,Bandung,Marketplace,Silver,Kartu Kredit,Tidak,41,10,470000,,119,0,9.5,19.6,6,4210000,1765,Kuning,Indonesia,,0
+PLG0462,55,Medan,Referral,Platinum,Kartu Kredit,Ya,17,13,271000,3523000,65,4,4.8,9.2,13,,2202,Merah,Indonesia,,0
+PLG0463,28,Bandung,Organik,Gold,Transfer Bank,Ya,14,12,325000,3900000,51,0,9,23.3,8,6070000,5320,Merah,Indonesia,A,0
+PLG0464,45,Bandung,Referral,Platinum,,Ya,25,8,377000,3016000,9,1,,22.9,21,9660000,1846,Kuning,Indonesia,,0
+PLG0465,47,Jakarta,Iklan,Platinum,E-Wallet,Tidak,18,0,596000,0,22,0,9.5,12.3,24,3730000,3905,Biru,Indonesia,,0
+PLG0466,39,Surabaya,Marketplace,Platinum,Kartu Kredit,Ya,6,4,208000,832000,40,4,5.9,27.7,10,2820000,1190,Kuning,Indonesia,B,1
+PLG0467,25,,Referral,Gold,Transfer Bank,Ya,33,11,,2893000,,1,5,4.6,17,2650000,8558,Hijau,Indonesia,,0
+PLG0468,,Medan,Referral,Gold,Transfer Bank,Tidak,52,10,191000,1910000,61,0,10,4.9,6,4020000,9033,Biru,Indonesia,,0
+PLG0469,56,Bandung,Marketplace,,E-Wallet,Tidak,51,14,,2702000,31,0,8.1,15.5,14,4570000,9152,Kuning,Indonesia,B,0
+PLG0470,18,Yogyakarta,Referral,Gold,Kartu Kredit,Ya,52,14,279000,3906000,98,2,5,0.1,10,8740000,2185,Kuning,Indonesia,,1
+PLG0471,23,Jakarta,Referral,Silver,,Ya,52,4,209000,836000,95,2,8.2,,16,11130000,145,Biru,Indonesia,,0
+PLG0472,39,Bandung,Organik,Gold,COD,Ya,46,12,160000,1920000,86,3,7.4,,0,5720000,7043,Merah,Indonesia,,1
+PLG0473,29,Jakarta,Organik,Gold,Transfer Bank,Tidak,5,11,433000,4763000,92,4,5.3,17.9,10,5850000,5141,Hijau,Indonesia,,1
+PLG0474,29,Jakarta,Iklan,Bronze,E-Wallet,Ya,52,1,,493000,41,,6.6,18.6,8,3900000,524,Hijau,Indonesia,,0
+PLG0475,33,Yogyakarta,Marketplace,Gold,COD,Tidak,45,4,209000,836000,106,0,8.7,1.8,4,6600000,4209,Merah,Indonesia,,1
+PLG0476,35,Medan,Iklan,Platinum,E-Wallet,,7,15,,4980000,64,0,,22,5,6620000,1208,Biru,Indonesia,,0
+PLG0477,26,Surabaya,Marketplace,Silver,Transfer Bank,Tidak,29,16,403000,6448000,92,0,6.9,4.1,14,4480000,9483,Kuning,Indonesia,,0
+PLG0478,28,Medan,Referral,Platinum,Kartu Kredit,Ya,25,5,,360000,84,0,7.3,11.6,9,4590000,2742,Merah,Indonesia,,0
+PLG0479,,Medan,Referral,Gold,Kartu Kredit,Ya,32,17,644000,10948000,107,0,9.7,6.5,4,,1355,Merah,Indonesia,,0
+PLG0480,47,Medan,Organik,Silver,Kartu Kredit,,5,8,269000,2152000,84,0,7.1,0.3,6,16620000,1399,Hijau,Indonesia,,1
+PLG0481,19,Yogyakarta,Organik,Gold,Transfer Bank,Ya,59,,373000,3357000,33,0,7.8,27.8,9,,1827,Biru,Indonesia,,0
+PLG0482,41,,Referral,Silver,Kartu Kredit,Tidak,,12,104000,1248000,120,0,7.7,2.7,3,6240000,9755,Biru,Indonesia,,0
+PLG0483,53,Jakarta,Marketplace,Platinum,COD,Tidak,30,16,190000,3040000,76,,3.7,11.7,12,3750000,5167,Kuning,Indonesia,,0
+PLG0484,48,Surabaya,Marketplace,Bronze,Kartu Kredit,Tidak,10,10,374000,,27,0,7.8,2.8,16,,3843,Kuning,Indonesia,,1
+PLG0485,19,Surabaya,,Platinum,Kartu Kredit,Ya,44,1,170000,170000,18,0,6.4,2.4,17,7400000,2412,Kuning,Indonesia,,0
+PLG0486,40,Surabaya,Iklan,Platinum,E-Wallet,Ya,13,15,121000,1815000,18,0,9.2,15.9,11,3890000,769,Biru,Indonesia,,0
+PLG0487,34,Yogyakarta,Iklan,Gold,COD,Ya,35,15,448000,6720000,38,2,6.4,1.1,24,,2587,Kuning,Indonesia,,0
+PLG0488,36,Surabaya,Referral,Silver,E-Wallet,Ya,,4,359000,1436000,66,0,5.6,5.5,6,23050000,8254,Merah,Indonesia,,0
+PLG0489,30,Jakarta,Marketplace,Silver,Transfer Bank,Tidak,12,12,,4572000,58,0,7.2,11.9,14,10730000,9932,Merah,Indonesia,,0
+PLG0490,41,Jakarta,Organik,Bronze,COD,Ya,9,2,230000,460000,45,0,9,12.7,8,4990000,6565,Hijau,Indonesia,,0
+PLG0491,40,Yogyakarta,Iklan,Silver,Kartu Kredit,Tidak,26,17,360000,6120000,32,,8.2,22.9,16,3880000,446,Biru,Indonesia,,0
+PLG0492,47,Jakarta,Iklan,Silver,Kartu Kredit,Ya,16,2,183000,366000,67,,4.9,,13,4470000,2987,Kuning,Indonesia,,1
+PLG0493,42,Bandung,Iklan,Platinum,E-Wallet,Tidak,58,10,518000,5180000,,1,6.3,11.4,17,7280000,2371,Biru,Indonesia,,0
+PLG0494,28,Bandung,Referral,Silver,COD,Ya,22,9,269000,2421000,43,0,7,13.9,18,13740000,5760,Merah,Indonesia,,0
+PLG0495,36,Surabaya,Referral,Silver,E-Wallet,Tidak,60,9,217000,1953000,67,4,2.6,11.5,16,,8874,Merah,Indonesia,,1
+PLG0496,46,Medan,,Platinum,E-Wallet,Ya,4,17,354000,6018000,110,0,9.1,0.2,9,4950000,4880,Hijau,Indonesia,,0
+PLG0497,31,Bandung,Referral,Silver,E-Wallet,Ya,18,14,199000,2786000,13,0,10,7,8,6120000,8424,Kuning,Indonesia,,0
+PLG0498,35,Surabaya,Referral,Platinum,Kartu Kredit,Tidak,10,15,142000,2130000,103,1,8,6.4,16,2940000,6043,Hijau,Indonesia,,1
+PLG0499,24,,Referral,Silver,,Tidak,16,1,174000,174000,92,0,6.2,26.9,12,8690000,2450,Biru,Indonesia,,1
+PLG0500,,Jakarta,Referral,,Transfer Bank,Tidak,49,8,330000,2640000,7,0,7.7,16.8,12,5150000,5902,Hijau,Indonesia,,0
+PLG0501,,Medan,Organik,Silver,Transfer Bank,Ya,26,12,408000,4896000,88,0,7.7,12.2,5,4580000,9440,Hijau,Indonesia,,0
+PLG0502,53,Surabaya,Referral,Platinum,Transfer Bank,Tidak,59,5,307000,1535000,46,0,7.4,29.5,8,3190000,2571,Merah,Indonesia,,0
+PLG0503,27,Medan,Referral,Silver,Transfer Bank,Ya,2,15,363000,5445000,12,0,7.8,25.2,12,3480000,6089,Hijau,Indonesia,,0
+PLG0504,23,Surabaya,Iklan,Silver,Kartu Kredit,Tidak,48,15,,3675000,48,0,10,24.5,9,4180000,24,Biru,Indonesia,,0
+PLG0505,27,Surabaya,Organik,Gold,E-Wallet,Tidak,60,17,256000,4352000,31,0,6.7,25.4,17,,4716,Merah,Indonesia,,0
+PLG0506,32,Surabaya,Organik,Gold,Transfer Bank,Ya,49,1,227000,227000,26,1,,19.5,10,1980000,1013,Kuning,Indonesia,,0
+PLG0507,41,Surabaya,Iklan,Gold,E-Wallet,Ya,30,12,144000,1728000,87,0,8,29.6,11,5500000,8159,Merah,Indonesia,,0
+PLG0508,37,Medan,,Bronze,COD,Tidak,58,16,334000,5344000,89,0,,21.9,5,9040000,6748,Kuning,Indonesia,,0
+PLG0509,30,Bandung,Iklan,Gold,E-Wallet,Ya,39,17,170000,2890000,117,3,5.2,5,8,14170000,5126,Kuning,Indonesia,C,0
+PLG0510,21,Bandung,Referral,Bronze,Transfer Bank,Tidak,59,10,190000,1900000,73,3,5.7,13.3,3,13790000,9537,Biru,Indonesia,,1
+PLG0511,38,,Referral,Gold,Kartu Kredit,Ya,50,5,120000,600000,85,2,7.6,4.3,14,10730000,1421,Merah,Indonesia,,0
+PLG0512,26,Medan,Organik,Gold,E-Wallet,Tidak,56,4,,1052000,74,2,5.9,2.9,0,7950000,3169,Merah,Indonesia,,0
+PLG0513,24,Jakarta,Marketplace,Platinum,Kartu Kredit,Tidak,44,11,211000,2321000,82,0,10,22.9,7,7850000,3635,Kuning,Indonesia,,0
+PLG0514,36,Medan,Organik,Platinum,COD,Tidak,11,9,407000,3663000,41,2,,14.5,7,,9271,Hijau,Indonesia,,0
+PLG0515,34,Medan,Organik,Bronze,E-Wallet,Tidak,43,6,265000,1590000,85,3,4.9,21.7,11,3150000,6836,Kuning,Indonesia,,1
+PLG0516,24,Surabaya,Referral,Gold,E-Wallet,Tidak,34,15,313000,4695000,114,1,8.1,11.3,3,2510000,7172,Merah,Indonesia,,1
+PLG0517,35,Surabaya,Iklan,Silver,E-Wallet,Ya,42,14,181000,2534000,115,0,9.2,22.8,3,,5703,Biru,Indonesia,,0
+PLG0518,41,Surabaya,Iklan,Bronze,Kartu Kredit,Tidak,58,3,102000,306000,37,0,,16.9,7,2590000,801,Hijau,Indonesia,,0
+PLG0519,29,Jakarta,,Gold,Transfer Bank,Ya,44,0,398000,0,62,0,3.9,29.7,,11080000,2439,Hijau,Indonesia,,0
+PLG0520,39,Surabaya,Iklan,Platinum,Kartu Kredit,Tidak,38,6,212000,1272000,5,1,5.3,12.8,12,5000000,7411,Kuning,Indonesia,,0
+PLG0521,56,Surabaya,Iklan,Silver,Transfer Bank,Ya,,7,79000,553000,52,1,5,11.3,10,8240000,802,Hijau,Indonesia,A,1
+PLG0522,51,Medan,Referral,Gold,Transfer Bank,Ya,10,16,259000,4144000,100,0,10,13.5,7,4070000,2839,Kuning,Indonesia,,0
+PLG0523,,Yogyakarta,Marketplace,Platinum,E-Wallet,Ya,43,2,187000,374000,69,1,8.7,11.6,17,6550000,1083,Hijau,Indonesia,,1
+PLG0524,35,Yogyakarta,Organik,Bronze,Transfer Bank,Tidak,59,10,236000,2360000,25,0,7.4,24.1,11,3890000,9329,Biru,Indonesia,,0
+PLG0525,52,Bandung,Organik,Silver,E-Wallet,Ya,,16,432000,6912000,71,4,5,7.1,13,15190000,8753,Kuning,Indonesia,,0
+PLG0526,31,Bandung,Iklan,Bronze,E-Wallet,Tidak,28,0,,0,,0,8.8,2.7,9,6540000,1685,Kuning,Indonesia,A,0
+PLG0527,38,Yogyakarta,Organik,Platinum,E-Wallet,Ya,12,2,147000,,26,1,,26.2,16,5780000,5174,Kuning,Indonesia,B,1
+PLG0528,35,Bandung,Referral,Silver,E-Wallet,Ya,40,7,123000,861000,51,0,9.5,15.5,13,,3705,Biru,Indonesia,,0
+PLG0529,30,Surabaya,,Platinum,COD,Tidak,21,3,397000,1191000,29,1,4.9,29.6,15,,2483,Merah,Indonesia,A,0
+PLG0530,35,Medan,Referral,Platinum,Transfer Bank,Ya,6,15,494000,7410000,79,4,3.8,,13,6200000,9659,Merah,Indonesia,,1
+PLG0531,38,Medan,Referral,Silver,Transfer Bank,Ya,20,7,245000,1715000,117,0,5.8,13.2,0,3650000,3803,Merah,Indonesia,,0
+PLG0532,36,Yogyakarta,Marketplace,Bronze,Transfer Bank,Ya,8,5,275000,1375000,35,1,5.8,29.4,17,4390000,9342,Biru,Indonesia,,0
+PLG0533,55,Medan,Referral,Gold,Transfer Bank,Tidak,37,5,261000,1305000,95,0,,5.1,8,,7967,Biru,Indonesia,,0
+PLG0534,44,Medan,Organik,Silver,,Tidak,42,8,217000,1736000,45,0,7.4,19.2,15,3630000,7972,Biru,Indonesia,,0
+PLG0535,42,Bandung,Referral,Gold,Transfer Bank,Ya,18,9,263000,2367000,26,2,6.9,17.7,6,6610000,9309,Biru,Indonesia,,0
+PLG0536,40,Bandung,Marketplace,Bronze,Transfer Bank,Ya,26,4,421000,1684000,41,4,5.2,28.7,17,5330000,5415,Merah,Indonesia,B,1
+PLG0537,43,Jakarta,Iklan,Gold,E-Wallet,Tidak,6,4,464000,1856000,43,0,8.2,14.4,12,,44,Merah,Indonesia,,0
+PLG0538,55,Yogyakarta,Organik,Silver,E-Wallet,Tidak,43,6,240000,1440000,23,0,9.3,15.2,13,,6813,Hijau,Indonesia,,0
+PLG0539,29,Surabaya,Referral,Platinum,Kartu Kredit,Ya,42,13,372000,4836000,84,0,10,3.7,11,10790000,535,Kuning,Indonesia,,1
+PLG0540,30,Medan,Marketplace,Gold,COD,Tidak,45,3,518000,1554000,8,0,7.2,29.9,19,5880000,663,Hijau,Indonesia,,0
+PLG0541,36,Surabaya,Marketplace,Platinum,,Tidak,20,5,175000,875000,81,0,7.2,17.6,12,5960000,3585,Kuning,Indonesia,,0
+PLG0542,,Jakarta,Organik,Gold,E-Wallet,Ya,3,17,589000,10013000,60,0,10,11.2,16,6540000,2442,Hijau,Indonesia,,0
+PLG0543,45,Surabaya,Organik,Bronze,Kartu Kredit,Tidak,55,8,502000,4016000,69,4,6.7,27.6,3,5880000,8908,Hijau,Indonesia,,1
+PLG0544,38,Yogyakarta,Iklan,Platinum,E-Wallet,Ya,57,12,107000,,30,4,6,12.7,16,3960000,2378,Biru,Indonesia,,0
+PLG0545,18,Yogyakarta,Referral,Platinum,COD,Ya,13,16,543000,8688000,21,4,5.1,,16,6920000,4810,Hijau,Indonesia,,0
+PLG0546,60,Jakarta,Iklan,Gold,Transfer Bank,Ya,46,12,331000,3972000,67,0,10,7.3,17,16740000,9974,Hijau,Indonesia,,0
+PLG0547,30,Bandung,Marketplace,Silver,Transfer Bank,Tidak,43,,555000,5550000,30,0,9.9,3.9,11,8670000,2998,Biru,Indonesia,,0
+PLG0548,,Bandung,Organik,Platinum,E-Wallet,Tidak,,0,193000,0,,0,8.2,28.2,,6600000,1203,Merah,Indonesia,,0
+PLG0549,18,Medan,Referral,Silver,COD,Tidak,3,10,737000,7370000,47,0,7.3,,15,4880000,8027,Hijau,Indonesia,,0
+PLG0550,46,Jakarta,Marketplace,Bronze,Kartu Kredit,Tidak,5,10,528000,5280000,12,3,4.7,12.6,18,6650000,7167,Hijau,Indonesia,,1
+PLG0551,54,Medan,Organik,Silver,Transfer Bank,Ya,36,17,267000,4539000,33,0,,1.9,29,19900000,4340,Hijau,Indonesia,,0
+PLG0552,40,Bandung,Marketplace,Bronze,E-Wallet,Tidak,1,14,139000,1946000,49,0,9.7,0.5,9,6310000,5676,Merah,Indonesia,,0
+PLG0553,34,Yogyakarta,Marketplace,Gold,Kartu Kredit,Ya,,7,119000,833000,66,0,8.5,18.3,0,2870000,1244,Biru,Indonesia,,0
+PLG0554,61,Jakarta,Iklan,Gold,Kartu Kredit,Ya,,9,188000,1692000,97,1,5.8,13.5,7,12860000,7358,Biru,Indonesia,,1
+PLG0555,29,,Referral,Platinum,COD,Ya,12,3,373000,1119000,87,0,9.9,24,8,,715,Kuning,Indonesia,,0
+PLG0556,47,,Iklan,Gold,Kartu Kredit,Tidak,33,15,193000,,36,1,5.4,16.8,13,7940000,4406,Hijau,Indonesia,,1
+PLG0557,52,Yogyakarta,Iklan,Platinum,E-Wallet,Tidak,42,8,403000,3224000,58,,7.8,17.3,7,9820000,6803,Kuning,Indonesia,,0
+PLG0558,35,Yogyakarta,Marketplace,Platinum,Transfer Bank,Ya,28,12,372000,4464000,21,0,7.5,28.9,24,6230000,8219,Kuning,Indonesia,,0
+PLG0559,48,Medan,Iklan,Gold,Kartu Kredit,Tidak,3,17,360000,6120000,79,0,7,26.4,3,5040000,4229,Biru,Indonesia,A,0
+PLG0560,19,Yogyakarta,Referral,,Kartu Kredit,Ya,7,10,180000,1800000,,0,9.3,26.4,12,4740000,6216,Biru,Indonesia,,0
+PLG0561,36,Yogyakarta,Referral,Silver,COD,Ya,46,4,480000,1920000,55,2,7.5,28.3,10,3730000,4603,Kuning,Indonesia,,0
+PLG0562,35,Medan,Referral,Gold,COD,Ya,,1,135000,135000,71,0,10,13.4,10,5630000,803,Hijau,Indonesia,,1
+PLG0563,29,Jakarta,Iklan,Silver,COD,Ya,16,5,187000,935000,73,0,,25.5,9,5860000,367,Kuning,Indonesia,,1
+PLG0564,45,Jakarta,Marketplace,Bronze,COD,Ya,1,16,252000,4032000,57,0,4.4,11.2,15,7300000,7977,Biru,Indonesia,,1
+PLG0565,47,Bandung,Iklan,Platinum,Transfer Bank,Tidak,13,15,226000,3390000,64,0,7.6,13.1,7,6180000,346,Hijau,Indonesia,,0
+PLG0566,26,Medan,Iklan,Platinum,Kartu Kredit,Ya,23,0,444000,0,54,0,7.6,16.4,17,10520000,5415,Merah,Indonesia,,0
+PLG0567,21,Bandung,Iklan,Gold,Kartu Kredit,Tidak,2,,155000,1085000,92,0,10,22.4,2,5470000,4678,Merah,Indonesia,,0
+PLG0568,35,Yogyakarta,Referral,Platinum,Kartu Kredit,Tidak,24,13,108000,1404000,,2,,17.7,3,,7377,Merah,Indonesia,,0
+PLG0569,45,Medan,Marketplace,Platinum,COD,Ya,53,4,453000,1812000,90,3,5.3,10.6,7,4490000,3203,Biru,Indonesia,B,1
+PLG0570,33,Bandung,Organik,Gold,E-Wallet,Tidak,1,2,521000,1042000,65,0,7.7,1.9,12,5160000,8101,Merah,Indonesia,,0
+PLG0571,40,Medan,Organik,Bronze,Transfer Bank,Tidak,22,8,248000,1984000,120,2,,9.7,15,3030000,299,Kuning,Indonesia,,1
+PLG0572,51,Surabaya,Marketplace,Bronze,E-Wallet,Tidak,57,3,269000,807000,96,0,,19.5,14,2910000,5107,Merah,Indonesia,,0
+PLG0573,32,Bandung,,Bronze,E-Wallet,Tidak,49,16,,6368000,100,0,6.2,20.1,,3450000,5433,Biru,Indonesia,,0
+PLG0574,21,Jakarta,Organik,Bronze,Kartu Kredit,Ya,28,9,135000,1215000,106,1,8.5,29.6,13,9420000,4414,Merah,Indonesia,,0
+PLG0575,20,Surabaya,Referral,Bronze,Transfer Bank,Ya,55,0,284000,0,22,3,6.1,29.7,12,6200000,7486,Merah,Indonesia,,0
+PLG0576,45,,Referral,Gold,,Tidak,22,2,246000,492000,5,0,8.6,18.4,17,9800000,8335,Hijau,Indonesia,,0
+PLG0577,46,Medan,Iklan,Gold,Transfer Bank,Tidak,38,15,133000,1995000,,3,4.5,7.6,0,11420000,9876,Kuning,Indonesia,,1
+PLG0578,27,Jakarta,Referral,Platinum,Transfer Bank,Tidak,59,13,,1573000,48,0,7.6,14.5,7,6190000,3435,Hijau,Indonesia,,0
+PLG0579,34,Bandung,Iklan,Silver,Kartu Kredit,Ya,39,13,145000,1885000,100,4,6.1,27.8,11,4090000,3905,Biru,Indonesia,,1
+PLG0580,31,Bandung,Marketplace,Platinum,COD,Tidak,52,15,134000,2010000,,0,7,29,8,3790000,7741,Hijau,Indonesia,C,0
+PLG0581,45,Yogyakarta,Iklan,Gold,E-Wallet,Tidak,26,3,245000,735000,,0,9.6,2.6,2,7220000,7430,Merah,Indonesia,,1
+PLG0582,24,Medan,Referral,Platinum,E-Wallet,Tidak,4,5,631000,3155000,55,4,4.9,,17,3790000,6955,Hijau,Indonesia,,1
+PLG0583,30,Bandung,Iklan,Bronze,COD,Ya,53,0,386000,0,3,0,7,24.4,12,7540000,7355,Kuning,Indonesia,,0
+PLG0584,49,Yogyakarta,Organik,Platinum,Transfer Bank,Tidak,42,13,298000,3874000,105,0,5.9,21.8,6,5130000,3790,Kuning,Indonesia,,0
+PLG0585,30,Surabaya,Marketplace,Platinum,Transfer Bank,Tidak,42,11,189000,2079000,1,0,,12.6,4,5850000,6922,Biru,Indonesia,,0
+PLG0586,57,Bandung,Organik,Silver,Kartu Kredit,Tidak,19,16,469000,7504000,106,3,4.6,15.2,9,4440000,893,Kuning,Indonesia,,1
+PLG0587,28,Jakarta,Iklan,Platinum,COD,Ya,28,8,85000,680000,14,1,8.2,5.1,13,10600000,4848,Hijau,Indonesia,,0
+PLG0588,18,Medan,Iklan,Bronze,Kartu Kredit,Ya,26,4,179000,716000,42,4,7.8,25,15,5220000,9944,Kuning,Indonesia,C,0
+PLG0589,48,Yogyakarta,Referral,Gold,Transfer Bank,Ya,31,10,686000,6860000,10,0,9,18.8,15,,5616,Biru,Indonesia,,0
+PLG0590,34,Yogyakarta,Iklan,Silver,Kartu Kredit,Tidak,36,7,317000,2219000,31,0,6.1,16.4,17,4750000,157,Merah,Indonesia,,0
+PLG0591,26,Jakarta,Iklan,Gold,E-Wallet,Ya,7,17,446000,7582000,32,0,,3.2,8,14970000,124,Merah,Indonesia,,0
+PLG0592,30,Yogyakarta,Organik,Silver,Transfer Bank,Tidak,43,,237000,1422000,33,0,8.8,19.6,8,6390000,526,Merah,Indonesia,,1
+PLG0593,24,Medan,Marketplace,Gold,Kartu Kredit,Tidak,36,11,237000,2607000,29,3,5.4,14.2,9,3430000,5022,Biru,Indonesia,,0
+PLG0594,58,Bandung,Marketplace,Platinum,COD,Tidak,8,13,508000,6604000,75,0,8.4,24.2,9,,5017,Merah,Indonesia,,0
+PLG0595,20,Yogyakarta,,Silver,Kartu Kredit,Ya,51,13,750000,9750000,68,0,8.6,4.5,5,4520000,9178,Kuning,Indonesia,,0
+PLG0596,53,Jakarta,Iklan,Gold,COD,Tidak,22,11,339000,3729000,6,0,9.1,0.3,26,7320000,2355,Merah,Indonesia,,0
+PLG0597,18,Bandung,Iklan,Bronze,Transfer Bank,Tidak,60,9,174000,1566000,115,0,7.9,9.9,9,18110000,7359,Merah,Indonesia,,1
+PLG0598,39,Medan,Referral,Platinum,COD,Ya,10,9,607000,,88,0,9,26.7,4,6120000,959,Merah,Indonesia,,0
+PLG0599,29,Bandung,Marketplace,Silver,E-Wallet,Tidak,13,2,565000,1130000,73,0,8.1,15.5,18,,5496,Kuning,Indonesia,,0
+PLG0600,18,Yogyakarta,Referral,Gold,E-Wallet,Ya,30,7,1021000,7147000,20,0,,3.6,12,4580000,6138,Biru,Indonesia,,0
+PLG0601,49,Jakarta,Marketplace,Silver,COD,Ya,44,,536000,1608000,20,0,4.1,16.3,8,9500000,3746,Biru,Indonesia,,0
+PLG0602,22,Yogyakarta,Referral,Gold,E-Wallet,Tidak,42,16,137000,2192000,91,0,9.2,5.9,2,4980000,3369,Hijau,Indonesia,,0
+PLG0603,59,Surabaya,Referral,Silver,E-Wallet,Tidak,18,0,118000,0,110,0,8.7,16.2,7,12970000,8370,Kuning,Indonesia,,1
+PLG0604,67,Jakarta,Marketplace,Platinum,COD,Ya,50,2,186000,372000,31,4,,8.2,17,,9007,Kuning,Indonesia,,0
+PLG0605,30,Medan,Referral,Platinum,COD,Ya,15,1,381000,381000,7,4,7,11.3,19,2930000,2685,Kuning,Indonesia,,1
+PLG0606,40,Bandung,Marketplace,Platinum,E-Wallet,Tidak,22,12,547000,6564000,39,0,8.4,14.9,12,4570000,4996,Biru,Indonesia,,0
+PLG0607,36,Yogyakarta,Marketplace,Gold,Transfer Bank,Tidak,41,5,342000,1710000,53,0,10,3.2,12,10630000,2530,Merah,Indonesia,,0
+PLG0608,41,Medan,,Silver,Kartu Kredit,Tidak,4,12,191000,2292000,105,0,9.6,19.1,0,9740000,2325,Hijau,Indonesia,,0
+PLG0609,40,Bandung,Iklan,Silver,E-Wallet,Tidak,51,2,345000,690000,56,0,9.3,7.6,10,2760000,2288,Biru,Indonesia,,0
+PLG0610,18,Yogyakarta,Marketplace,Platinum,Kartu Kredit,Tidak,34,12,640000,7680000,54,4,4.1,1.9,7,7090000,8580,Kuning,Indonesia,,1
+PLG0611,46,Jakarta,Iklan,Platinum,Transfer Bank,Tidak,,8,195000,,77,0,,3.7,4,2490000,8870,Merah,Indonesia,,0
+PLG0612,43,Jakarta,Marketplace,Platinum,Transfer Bank,Tidak,51,14,,3934000,55,0,10,4,15,5230000,2855,Kuning,Indonesia,,0
+PLG0613,40,Medan,Organik,Silver,Transfer Bank,Ya,29,11,176000,1936000,61,3,8.1,21,11,8040000,9800,Hijau,Indonesia,,0
+PLG0614,35,Bandung,Organik,Silver,COD,Tidak,38,10,181000,1810000,56,0,9.3,1.6,10,3080000,1030,Biru,Indonesia,A,0
+PLG0615,38,,Marketplace,Silver,E-Wallet,Ya,43,4,269000,,74,4,5,9.9,0,8220000,2156,Hijau,Indonesia,,1
+PLG0616,50,Bandung,Referral,Gold,Transfer Bank,Ya,40,4,261000,1044000,97,,10,23.6,3,4730000,7855,Kuning,Indonesia,,0
+PLG0617,18,,Marketplace,Gold,E-Wallet,Ya,3,0,366000,0,14,0,6,24.1,13,4030000,8242,Kuning,Indonesia,,0
+PLG0618,35,Surabaya,Organik,Gold,Kartu Kredit,Ya,53,2,,830000,35,,8.7,3.6,22,3750000,6811,Hijau,Indonesia,,0
+PLG0619,18,Yogyakarta,Marketplace,Platinum,E-Wallet,Tidak,28,4,183000,732000,33,0,,,11,7590000,2122,Hijau,Indonesia,,0
+PLG0620,43,Surabaya,Marketplace,Silver,Transfer Bank,Tidak,21,12,179000,2148000,69,0,,25.3,19,2820000,824,Kuning,Indonesia,,0
+PLG0621,45,Jakarta,Organik,Gold,E-Wallet,Ya,29,13,214000,2782000,21,0,9.7,8.9,8,8550000,1313,Biru,Indonesia,A,0
+PLG0622,40,Surabaya,Iklan,Silver,E-Wallet,,12,10,320000,3200000,72,0,9.7,0,9,,9690,Merah,Indonesia,,1
+PLG0623,25,Bandung,,Platinum,Transfer Bank,Ya,12,9,119000,1071000,116,0,,27,4,3350000,3011,Hijau,Indonesia,,0
+PLG0624,46,Bandung,Organik,Platinum,,Ya,15,,237000,1896000,42,2,5,14.7,14,,4496,Merah,Indonesia,,1
+PLG0625,33,Surabaya,Organik,Gold,Kartu Kredit,Tidak,35,10,,1990000,98,0,8.4,6,13,6810000,7620,Kuning,Indonesia,,0
+PLG0626,33,Bandung,Marketplace,Bronze,,Ya,32,,,,26,0,,24.6,14,6910000,700,Kuning,Indonesia,,0
+PLG0627,22,Jakarta,,Silver,Transfer Bank,Ya,42,6,240000,1440000,119,2,6.5,6.1,7,2430000,758,Merah,Indonesia,,0
+PLG0628,18,Yogyakarta,Referral,Platinum,Kartu Kredit,Ya,56,10,167000,1670000,18,0,8.1,13,16,4640000,3369,Hijau,Indonesia,,0
+PLG0629,38,Yogyakarta,Iklan,Silver,Transfer Bank,Tidak,46,11,270000,2970000,60,0,7.6,8.2,10,5160000,8738,Merah,Indonesia,,0
+PLG0630,19,Surabaya,Organik,Bronze,COD,Tidak,22,0,548000,0,64,4,,8.1,1,9580000,2594,Biru,Indonesia,,1
+PLG0631,35,Medan,,Platinum,Transfer Bank,Ya,15,9,299000,2691000,82,0,8.7,24.8,5,7410000,9725,Kuning,Indonesia,,1
+PLG0632,42,Bandung,Iklan,Bronze,,Tidak,22,2,343000,686000,17,0,7.8,0.8,7,7950000,4845,Kuning,Indonesia,,0
+PLG0633,,,Organik,Gold,E-Wallet,Ya,49,16,187000,2992000,112,0,,12.2,9,3760000,7394,Biru,Indonesia,,0
+PLG0634,47,Jakarta,Iklan,Bronze,E-Wallet,Ya,46,5,191000,955000,57,0,6.6,1.2,8,3880000,6047,Hijau,Indonesia,A,0
+PLG0635,25,Yogyakarta,Organik,Gold,Kartu Kredit,Tidak,11,1,339000,339000,52,0,,22.4,10,7150000,1590,Kuning,Indonesia,,0
+PLG0636,47,Bandung,Referral,Silver,Kartu Kredit,Ya,40,7,188000,1316000,10,4,,19.4,7,9270000,1348,Merah,Indonesia,,1
+PLG0637,27,Surabaya,Organik,Silver,Transfer Bank,Ya,28,10,,3240000,17,0,5.5,19.2,11,7230000,3409,Kuning,Indonesia,A,0
+PLG0638,60,Surabaya,Organik,Gold,Transfer Bank,Tidak,56,14,385000,5390000,6,0,8.8,20.7,12,4820000,5762,Kuning,Indonesia,,0
+PLG0639,45,Medan,Marketplace,Platinum,Kartu Kredit,Ya,37,2,398000,796000,28,0,7,,8,5170000,4084,Biru,Indonesia,,0
+PLG0640,36,Medan,Organik,Gold,,Tidak,33,8,,3768000,83,4,6.8,0.3,11,2540000,1841,Kuning,Indonesia,,1
+PLG0641,38,Medan,Organik,Bronze,,Tidak,19,1,336000,336000,68,0,6.3,5.3,6,,5460,Merah,Indonesia,C,1
+PLG0642,37,Bandung,Referral,Platinum,Transfer Bank,Tidak,24,16,77000,,70,0,9,17.3,1,,2406,Biru,Indonesia,,0
+PLG0643,41,Jakarta,Organik,Silver,Transfer Bank,Ya,24,15,255000,3825000,46,0,7.5,4.5,16,,9138,Biru,Indonesia,,0
+PLG0644,25,Medan,Iklan,Bronze,,Ya,3,6,310000,,104,0,8.9,6.3,1,4480000,6621,Merah,Indonesia,,1
+PLG0645,24,Medan,Iklan,Silver,E-Wallet,Ya,40,11,330000,3630000,21,0,8.1,17.3,15,5280000,4261,Biru,Indonesia,,0
+PLG0646,33,Surabaya,Organik,Platinum,E-Wallet,Tidak,13,8,336000,2688000,13,0,5,3.5,14,11660000,4996,Merah,Indonesia,,0
+PLG0647,34,Bandung,Iklan,Silver,Kartu Kredit,Ya,6,17,217000,3689000,36,0,7.4,25.5,7,5880000,3393,Kuning,Indonesia,,0
+PLG0648,18,Bandung,Iklan,Bronze,E-Wallet,Tidak,30,8,488000,3904000,117,0,7,2.2,4,3030000,1889,Merah,Indonesia,,1
+PLG0649,40,Medan,Marketplace,Platinum,COD,Tidak,26,15,309000,,21,4,,7,20,1900000,1006,Hijau,Indonesia,A,1
+PLG0650,46,Surabaya,Referral,Platinum,COD,Ya,46,4,248000,992000,52,,6.6,23.3,16,3340000,3398,Biru,Indonesia,,0
+PLG0651,21,Medan,Organik,Platinum,COD,Ya,,16,615000,9840000,115,0,8.7,12.5,7,4860000,8241,Biru,Indonesia,,0
+PLG0652,18,Jakarta,Organik,Platinum,Kartu Kredit,Ya,59,8,170000,1360000,22,0,8.3,19.2,11,4760000,9206,Biru,Indonesia,B,0
+PLG0653,47,Surabaya,Marketplace,Bronze,Kartu Kredit,Tidak,29,9,277000,2493000,14,0,8.9,25.9,12,3350000,1796,Kuning,Indonesia,,0
+PLG0654,63,Medan,Referral,Silver,COD,Tidak,,0,412000,0,16,0,9.2,6.1,8,4400000,5979,Merah,Indonesia,,0
+PLG0655,38,Jakarta,Iklan,Gold,Transfer Bank,Ya,20,3,324000,972000,,0,7.6,3.1,8,,8141,Kuning,Indonesia,,0
+PLG0656,18,Surabaya,Organik,Platinum,Transfer Bank,Ya,35,6,286000,1716000,28,2,4.6,23.1,9,4710000,4662,Merah,Indonesia,,0
+PLG0657,18,Yogyakarta,Organik,Bronze,Kartu Kredit,Tidak,,10,,540000,95,2,6.2,15.8,,3400000,6551,Biru,Indonesia,,1
+PLG0658,40,Yogyakarta,Iklan,Gold,COD,Tidak,23,16,319000,5104000,8,4,4.6,22.9,13,6340000,7101,Kuning,Indonesia,,0
+PLG0659,41,Jakarta,Referral,Silver,E-Wallet,Tidak,14,0,523000,0,75,0,8.5,28.1,1,5790000,4562,Hijau,Indonesia,,0
+PLG0660,59,Surabaya,Marketplace,Silver,Kartu Kredit,Ya,53,11,284000,3124000,37,0,10,20.7,15,3890000,388,Kuning,Indonesia,,0
+PLG0661,44,Yogyakarta,Iklan,Bronze,Kartu Kredit,Tidak,3,12,485000,5820000,91,0,9.1,8.6,2,8960000,3166,Merah,Indonesia,,0
+PLG0662,37,Yogyakarta,Iklan,Bronze,Transfer Bank,Ya,34,12,258000,3096000,88,2,5.1,5.3,7,,5626,Kuning,Indonesia,,1
+PLG0663,29,Surabaya,Iklan,Platinum,Kartu Kredit,Ya,58,16,,7808000,30,4,3.6,0.1,19,9780000,4226,Merah,Indonesia,C,0
+PLG0664,47,Yogyakarta,Organik,Bronze,Transfer Bank,,55,2,461000,922000,43,2,7.7,29.1,18,5560000,4977,Hijau,Indonesia,,0
+PLG0665,35,Yogyakarta,Organik,Silver,Transfer Bank,Ya,11,15,396000,5940000,106,0,7.4,7.3,3,4530000,484,Hijau,Indonesia,,0
+PLG0666,37,Surabaya,Referral,Bronze,Transfer Bank,Ya,9,3,146000,438000,99,0,,6.9,16,12700000,4934,Biru,Indonesia,,1
+PLG0667,62,Bandung,Iklan,Silver,Transfer Bank,Tidak,46,7,776000,5432000,55,0,7.6,23.3,0,,730,Merah,Indonesia,,0
+PLG0668,18,Surabaya,Referral,Platinum,Kartu Kredit,Ya,32,15,,4455000,99,0,8.1,14.8,10,4670000,4528,Merah,Indonesia,,0
+PLG0669,60,Yogyakarta,Organik,,COD,Ya,11,13,450000,5850000,93,0,8.5,15.1,1,5660000,193,Hijau,Indonesia,,0
+PLG0670,49,Yogyakarta,Organik,Silver,Transfer Bank,Tidak,5,17,121000,2057000,57,0,9.4,22.6,8,3850000,4866,Biru,Indonesia,,0
+PLG0671,74,Yogyakarta,Referral,Silver,Kartu Kredit,Tidak,42,,250000,1500000,120,0,4.9,27.2,12,6450000,8169,Hijau,Indonesia,,1
+PLG0672,29,Jakarta,Referral,Silver,COD,Ya,11,16,148000,2368000,118,0,8.8,23.3,2,4690000,4524,Kuning,Indonesia,,1
+PLG0673,18,Medan,Marketplace,Silver,Kartu Kredit,Ya,1,12,,2376000,36,0,7.2,10.2,13,7400000,8608,Merah,Indonesia,B,0
+PLG0674,27,Medan,Referral,Platinum,Kartu Kredit,Tidak,44,12,358000,4296000,101,1,7.7,4.8,5,10590000,9863,Hijau,Indonesia,,0
+PLG0675,18,Jakarta,Organik,Bronze,COD,Tidak,37,9,206000,1854000,66,1,6.1,9.7,4,7100000,6826,Kuning,Indonesia,A,1
+PLG0676,49,Bandung,Marketplace,Bronze,Kartu Kredit,Tidak,45,10,142000,1420000,12,0,6.8,16.9,15,1900000,2800,Hijau,Indonesia,,0
+PLG0677,54,Bandung,Referral,Platinum,Transfer Bank,Ya,51,10,230000,2300000,14,0,5.4,27.1,22,3890000,5241,Kuning,Indonesia,,0
+PLG0678,48,Yogyakarta,Iklan,Bronze,COD,Tidak,50,12,527000,6324000,21,2,7,27.4,19,5320000,8040,Merah,Indonesia,,0
+PLG0679,29,Medan,Referral,Platinum,E-Wallet,Tidak,5,,492000,6396000,35,,8.4,18,19,5730000,1209,Merah,Indonesia,,0
+PLG0680,46,Jakarta,Marketplace,Silver,COD,Tidak,12,14,,11396000,91,0,7.7,13.1,12,5350000,3190,Merah,Indonesia,,0
+PLG0681,26,Jakarta,Iklan,Bronze,Transfer Bank,Ya,52,17,410000,,74,0,8.7,6.3,11,6800000,4706,Kuning,Indonesia,,0
+PLG0682,18,Medan,Iklan,Platinum,Kartu Kredit,Ya,36,8,419000,3352000,97,0,7.8,21,7,2830000,5290,Kuning,Indonesia,,0
+PLG0683,29,Jakarta,Iklan,Bronze,Kartu Kredit,Ya,3,16,282000,4512000,90,0,4.9,10.3,9,4620000,6322,Hijau,Indonesia,,1
+PLG0684,36,Jakarta,Referral,Gold,E-Wallet,Tidak,6,16,103000,1648000,23,0,7.1,6.8,,4810000,4670,Hijau,Indonesia,B,0
+PLG0685,39,Bandung,Organik,Bronze,Kartu Kredit,Ya,2,5,361000,1805000,78,0,,3.3,14,3540000,9479,Hijau,Indonesia,,1
+PLG0686,31,Surabaya,Organik,Gold,Kartu Kredit,Ya,39,2,299000,598000,,4,5.7,21,18,,517,Biru,Indonesia,,1
+PLG0687,,Bandung,Referral,Platinum,Transfer Bank,Tidak,48,12,591000,7092000,28,0,7.7,7,18,6760000,701,Kuning,Indonesia,,0
+PLG0688,21,Yogyakarta,Referral,Silver,E-Wallet,Tidak,39,8,772000,6176000,63,0,6.7,16.9,6,6970000,4211,Merah,Indonesia,,1
+PLG0689,31,Yogyakarta,,Bronze,Kartu Kredit,Tidak,30,5,191000,,24,1,9.6,17.2,12,5510000,3268,Hijau,Indonesia,,0
+PLG0690,35,Surabaya,Iklan,Platinum,Kartu Kredit,Tidak,52,17,166000,2822000,108,0,7,,3,3820000,2185,Kuning,Indonesia,,0
+PLG0691,31,Bandung,Organik,Gold,Transfer Bank,Tidak,33,7,311000,2177000,61,1,9.3,4.8,14,5480000,1007,Biru,Indonesia,,0
+PLG0692,60,Yogyakarta,Iklan,Silver,Transfer Bank,Tidak,35,4,200000,800000,24,1,7,22.4,19,4250000,5770,Hijau,Indonesia,,1
+PLG0693,32,Yogyakarta,Iklan,Silver,Kartu Kredit,Ya,13,16,79000,1264000,34,0,7.1,28.9,19,6020000,9337,Merah,Indonesia,,0
+PLG0694,32,Surabaya,Marketplace,Silver,E-Wallet,Tidak,15,4,420000,1680000,51,0,9.8,1,14,2400000,5247,Hijau,Indonesia,,0
+PLG0695,20,Yogyakarta,Organik,Silver,Kartu Kredit,Ya,2,5,322000,1610000,88,,10,20.2,8,3830000,193,Hijau,Indonesia,B,0
+PLG0696,41,Medan,Referral,Gold,E-Wallet,Ya,38,7,265000,1855000,15,0,5.4,26.6,12,5160000,3243,Hijau,Indonesia,,0
+PLG0697,55,Yogyakarta,Referral,,COD,Tidak,14,12,350000,4200000,104,0,,9.9,11,10890000,9343,Merah,Indonesia,,0
+PLG0698,22,Surabaya,,Platinum,Transfer Bank,Ya,20,9,204000,1836000,91,0,9.1,23.5,3,3570000,8338,Kuning,Indonesia,,0
+PLG0699,36,Medan,Organik,Platinum,E-Wallet,Ya,44,13,433000,5629000,69,1,7.2,7.4,9,,9524,Merah,Indonesia,,1
+PLG0700,40,Surabaya,Iklan,Platinum,Transfer Bank,Tidak,1,8,842000,6736000,37,1,,23,3,10070000,9845,Kuning,Indonesia,,0
+PLG0701,42,Yogyakarta,Referral,Platinum,Transfer Bank,Ya,50,0,704000,0,70,0,8.2,14.6,10,13680000,5743,Kuning,Indonesia,,0
+PLG0702,27,Yogyakarta,Organik,Gold,Transfer Bank,Tidak,16,9,149000,1341000,28,0,9.2,15.7,10,5520000,6626,Kuning,Indonesia,,0
+PLG0703,29,Yogyakarta,Marketplace,Bronze,COD,Tidak,42,0,142000,0,,0,9.7,28.9,11,7380000,9021,Hijau,Indonesia,,0
+PLG0704,35,Bandung,Iklan,Platinum,Transfer Bank,Ya,50,6,,1476000,114,1,7.1,24.4,0,5320000,78,Hijau,Indonesia,,1
+PLG0705,47,Yogyakarta,Marketplace,Silver,Transfer Bank,Tidak,49,17,248000,4216000,12,0,8.1,26.7,16,3200000,792,Biru,Indonesia,,0
+PLG0706,59,Jakarta,Organik,Bronze,Transfer Bank,Tidak,27,10,128000,1280000,16,1,5.7,28.3,15,6330000,3469,Merah,Indonesia,,0
+PLG0707,26,Yogyakarta,Marketplace,Platinum,Kartu Kredit,Ya,3,12,187000,2244000,108,0,7.8,12.8,6,5720000,4146,Merah,Indonesia,,0
+PLG0708,32,Bandung,Organik,Platinum,E-Wallet,Ya,49,17,378000,6426000,33,2,,,18,9470000,8695,Hijau,Indonesia,,0
+PLG0709,39,Jakarta,Organik,Platinum,Kartu Kredit,Ya,18,7,86000,602000,118,4,4.4,18.3,12,4180000,6455,Kuning,Indonesia,,1
+PLG0710,39,Jakarta,Iklan,Bronze,COD,,60,15,291000,4365000,53,0,,6.3,14,4950000,1871,Kuning,Indonesia,,0
+PLG0711,58,Bandung,Marketplace,Silver,COD,Ya,16,12,86000,1032000,107,0,8.2,0.5,,4090000,7665,Kuning,Indonesia,,0
+PLG0712,26,Medan,Organik,Bronze,,Ya,2,3,80000,240000,59,1,,18.4,21,3130000,4381,Merah,Indonesia,,1
+PLG0713,32,Medan,Organik,Silver,E-Wallet,Tidak,8,,67000,603000,43,4,4.5,11.4,13,8750000,2867,Kuning,Indonesia,B,1
+PLG0714,33,Yogyakarta,Organik,Silver,E-Wallet,Tidak,47,14,996000,13944000,43,0,8.2,25,16,11010000,659,Merah,Indonesia,,0
+PLG0715,42,Bandung,Organik,Platinum,COD,Tidak,56,4,340000,1360000,82,0,7.4,,15,5470000,2056,Merah,Indonesia,,0
+PLG0716,18,Yogyakarta,Iklan,Gold,E-Wallet,Tidak,54,10,108000,1080000,103,3,5.1,10.8,0,5850000,5477,Biru,Indonesia,,1
+PLG0717,36,Bandung,Organik,Bronze,COD,Tidak,42,14,224000,3136000,114,0,7.7,13.5,4,6760000,6741,Kuning,Indonesia,,0
+PLG0718,26,Surabaya,Organik,Silver,Transfer Bank,Tidak,40,0,470000,0,5,0,7.2,20.3,16,6130000,4380,Merah,Indonesia,,0
+PLG0719,23,Yogyakarta,Iklan,Bronze,Kartu Kredit,Tidak,58,13,90000,1170000,94,2,7.4,28.4,6,,3726,Hijau,Indonesia,,0
+PLG0720,45,Surabaya,Marketplace,Gold,Kartu Kredit,Tidak,37,11,140000,1540000,63,0,5.7,26.1,14,4220000,3480,Hijau,Indonesia,,0
+PLG0721,32,Jakarta,Marketplace,Bronze,E-Wallet,Ya,23,16,90000,1440000,93,0,5.6,17.8,2,11400000,6055,Kuning,Indonesia,,0
+PLG0722,30,Jakarta,Referral,Platinum,COD,Tidak,38,1,180000,,114,0,9.2,20.5,15,,4205,Hijau,Indonesia,,0
+PLG0723,30,Jakarta,Organik,Bronze,Kartu Kredit,Ya,3,10,152000,1520000,24,0,8.5,13,21,6820000,9977,Merah,Indonesia,,0
+PLG0724,18,Jakarta,Referral,Bronze,Kartu Kredit,Tidak,24,15,266000,3990000,82,0,6.6,15,15,5260000,5935,Merah,Indonesia,,0
+PLG0725,24,Yogyakarta,Referral,Bronze,E-Wallet,Ya,52,17,670000,,44,0,6.8,18.4,12,,4523,Hijau,Indonesia,,0
+PLG0726,20,Bandung,Marketplace,Bronze,Kartu Kredit,Ya,9,14,139000,1946000,44,4,6.1,11.2,12,2100000,6483,Biru,Indonesia,,0
+PLG0727,51,Jakarta,Referral,Silver,COD,Tidak,12,2,291000,582000,45,0,6.3,17,19,8290000,6421,Hijau,Indonesia,,0
+PLG0728,40,Bandung,Referral,Gold,Kartu Kredit,,,17,167000,2839000,8,4,5.6,19.5,6,11750000,8894,Biru,Indonesia,,0
+PLG0729,38,Yogyakarta,Marketplace,Silver,E-Wallet,Ya,34,8,366000,2928000,112,0,5.3,13.3,12,8790000,1638,Hijau,Indonesia,,1
+PLG0730,35,Medan,Iklan,Platinum,,Tidak,43,13,485000,6305000,,0,7.4,18,6,,3754,Kuning,Indonesia,,0
+PLG0731,35,Jakarta,Marketplace,Silver,Kartu Kredit,Ya,25,15,80000,1200000,34,1,6.5,26.1,2,,4758,Hijau,Indonesia,,0
+PLG0732,37,Bandung,Marketplace,Bronze,Kartu Kredit,Tidak,7,13,569000,,118,0,10,,3,4130000,577,Merah,Indonesia,,0
+PLG0733,39,Yogyakarta,Marketplace,Gold,Transfer Bank,Tidak,20,,370000,2590000,8,0,7.2,28,16,3170000,3659,Kuning,Indonesia,,0
+PLG0734,49,Bandung,Marketplace,Silver,E-Wallet,Ya,4,7,108000,756000,4,0,,18.7,15,3830000,9242,Hijau,Indonesia,,0
+PLG0735,33,Bandung,,Silver,E-Wallet,Tidak,56,,120000,1680000,79,0,6.6,3.2,11,5850000,939,Kuning,Indonesia,C,0
+PLG0736,,Surabaya,,Platinum,COD,Tidak,12,16,366000,,53,,4.9,19.3,14,2440000,790,Kuning,Indonesia,B,0
+PLG0737,53,Jakarta,Iklan,Gold,Transfer Bank,Ya,48,10,302000,3020000,92,1,7.9,18.2,2,5650000,9649,Merah,Indonesia,,0
+PLG0738,29,Jakarta,Organik,Bronze,E-Wallet,Tidak,53,12,565000,6780000,6,0,,16.4,14,3550000,429,Kuning,Indonesia,,0
+PLG0739,48,Bandung,Marketplace,Silver,COD,Tidak,26,13,123000,1599000,25,0,6,10,13,10200000,1824,Merah,Indonesia,,0
+PLG0740,48,Medan,Iklan,Gold,,Ya,60,9,259000,2331000,9,0,6.7,23.6,17,14860000,9297,Merah,Indonesia,,0
+PLG0741,46,Jakarta,Marketplace,Gold,Kartu Kredit,Tidak,42,8,181000,1448000,86,0,6.9,1.1,,5120000,5020,Merah,Indonesia,,0
+PLG0742,18,Jakarta,Iklan,Bronze,Transfer Bank,Tidak,12,1,348000,348000,22,2,8.2,8.8,22,6080000,9270,Hijau,Indonesia,,0
+PLG0743,18,Jakarta,Iklan,Gold,E-Wallet,Tidak,3,1,305000,305000,70,0,9.7,13.4,7,5240000,5080,Biru,Indonesia,,0
+PLG0744,33,Medan,Iklan,Silver,Kartu Kredit,Tidak,4,4,323000,1292000,26,0,7.6,19,5,7130000,6242,Hijau,Indonesia,,0
+PLG0745,23,Surabaya,Iklan,Platinum,COD,Tidak,10,14,129000,1806000,21,0,8.3,15.5,11,2800000,6220,Kuning,Indonesia,B,0
+PLG0746,45,Surabaya,Marketplace,Silver,COD,Tidak,21,5,993000,,111,0,8.7,,19,,6864,Merah,Indonesia,,0
+PLG0747,18,Yogyakarta,Marketplace,Platinum,Kartu Kredit,Tidak,2,2,204000,408000,102,0,8.1,13,0,2550000,4061,Kuning,Indonesia,,0
+PLG0748,50,Bandung,Organik,Platinum,E-Wallet,Tidak,39,14,,3052000,107,1,6,12.5,10,6950000,2721,Biru,Indonesia,,1
+PLG0749,21,Yogyakarta,Marketplace,Gold,COD,Tidak,54,13,230000,2990000,109,0,5.3,12.9,3,2250000,355,Hijau,Indonesia,,0
+PLG0750,50,Jakarta,Referral,Bronze,COD,Ya,53,,,3784000,94,2,4.1,19.1,2,5900000,8184,Hijau,Indonesia,,1
+PLG0751,41,Surabaya,Iklan,Bronze,E-Wallet,Ya,38,4,155000,620000,49,0,8.7,14.8,11,5090000,8533,Merah,Indonesia,,0
+PLG0752,33,Medan,Organik,Silver,COD,Tidak,53,,,2410000,115,2,4.2,18.4,8,8490000,3507,Biru,Indonesia,,1
+PLG0753,40,Medan,Organik,Platinum,E-Wallet,Tidak,29,15,74000,1110000,93,4,3.6,1.5,6,8920000,1299,Hijau,Indonesia,,1
+PLG0754,39,Jakarta,Iklan,Bronze,COD,Tidak,49,1,226000,226000,82,2,6.3,1.6,16,5220000,6859,Kuning,Indonesia,,1
+PLG0755,49,Jakarta,Iklan,Bronze,Kartu Kredit,Tidak,32,17,250000,4250000,98,3,6.2,25,14,6530000,940,Hijau,Indonesia,,0
+PLG0756,55,Surabaya,Organik,Silver,E-Wallet,Ya,31,0,613000,0,93,0,6.7,3.7,10,3490000,7518,Kuning,Indonesia,,0
+PLG0757,37,Medan,Referral,Platinum,Transfer Bank,Ya,9,15,256000,3840000,10,3,,16.9,15,2610000,1552,Biru,Indonesia,,0
+PLG0758,36,Bandung,Marketplace,Silver,Transfer Bank,Tidak,19,9,298000,2682000,45,3,4,3.5,11,,8332,Hijau,Indonesia,,0
+PLG0759,18,Surabaya,Iklan,Bronze,Kartu Kredit,Tidak,11,3,310000,930000,115,4,5.3,11.5,6,4420000,5017,Merah,Indonesia,,1
+PLG0760,27,Medan,Referral,Platinum,Transfer Bank,Tidak,11,9,201000,1809000,29,0,10,17.1,14,10940000,2911,Hijau,Indonesia,,0
+PLG0761,18,Surabaya,Organik,Gold,E-Wallet,Tidak,37,2,399000,798000,66,2,8.4,2.7,10,8610000,1063,Kuning,Indonesia,B,0
+PLG0762,31,Bandung,Marketplace,Bronze,Kartu Kredit,Ya,59,16,205000,3280000,22,2,,16.6,10,2450000,7712,Biru,Indonesia,,0
+PLG0763,,Surabaya,Organik,Gold,COD,Ya,,3,344000,1032000,113,2,9.1,15.8,12,6170000,8504,Merah,Indonesia,,1
+PLG0764,42,Surabaya,Marketplace,Silver,E-Wallet,Tidak,45,15,620000,9300000,99,0,8.5,22.3,0,8280000,903,Merah,Indonesia,,0
+PLG0765,31,Jakarta,Organik,Gold,Transfer Bank,Ya,13,10,274000,2740000,75,0,7.6,1.2,7,7670000,5157,Kuning,Indonesia,,0
+PLG0766,46,Bandung,Referral,Silver,COD,Ya,37,10,495000,4950000,85,0,6.2,13.2,9,,4451,Merah,Indonesia,,0
+PLG0767,35,Bandung,Iklan,Bronze,E-Wallet,Tidak,25,,166000,332000,,3,4.9,14.6,20,8420000,8299,Kuning,Indonesia,,1
+PLG0768,36,Bandung,Iklan,Platinum,Transfer Bank,Tidak,19,6,205000,1230000,79,2,5.5,1,10,6460000,9116,Kuning,Indonesia,,0
+PLG0769,,Surabaya,Referral,Platinum,E-Wallet,Tidak,2,15,634000,9510000,99,0,6.8,10.5,0,6570000,4196,Kuning,Indonesia,,0
+PLG0770,30,Yogyakarta,Referral,Gold,Transfer Bank,Ya,28,9,,,27,0,8.7,26.7,12,3230000,4994,Kuning,Indonesia,C,0
+PLG0771,33,Bandung,Organik,Bronze,Kartu Kredit,Ya,6,5,354000,1770000,10,0,9.3,1.3,8,2980000,3033,Merah,Indonesia,,0
+PLG0772,44,Surabaya,Marketplace,Silver,COD,Tidak,27,14,435000,6090000,74,0,,23.7,8,,8962,Hijau,Indonesia,,0
+PLG0773,27,Medan,Marketplace,Bronze,COD,Tidak,29,1,406000,,75,3,4.6,11.7,5,4700000,425,Kuning,Indonesia,,0
+PLG0774,,Surabaya,Referral,Silver,E-Wallet,Ya,12,8,167000,1336000,34,0,7.8,9.5,8,5650000,6886,Kuning,Indonesia,,0
+PLG0775,41,Yogyakarta,Marketplace,Gold,Transfer Bank,Tidak,29,6,,2892000,46,4,5.4,7.1,11,3550000,7297,Kuning,Indonesia,,0
+PLG0776,51,Yogyakarta,Iklan,Silver,Kartu Kredit,Tidak,30,13,127000,1651000,80,0,6.8,6.6,10,13490000,3901,Kuning,Indonesia,,1
+PLG0777,34,Yogyakarta,Organik,Gold,Kartu Kredit,Tidak,55,2,382000,764000,34,4,3.9,2.4,16,2990000,7198,Hijau,Indonesia,,1
+PLG0778,51,Medan,Referral,Bronze,Transfer Bank,Tidak,7,5,794000,3970000,118,4,5.1,18.5,3,4890000,8914,Merah,Indonesia,C,1
+PLG0779,36,Yogyakarta,Referral,Bronze,E-Wallet,Tidak,54,13,233000,3029000,69,,8.6,11.2,8,3650000,7745,Hijau,Indonesia,,0
+PLG0780,44,Surabaya,Iklan,Platinum,Kartu Kredit,Tidak,58,2,,482000,47,0,7.4,22.1,15,4650000,6295,Biru,Indonesia,,0
+PLG0781,45,Yogyakarta,Referral,Platinum,COD,Tidak,11,9,265000,2385000,28,0,8,14.5,15,4070000,5346,Merah,Indonesia,,0
+PLG0782,32,Medan,Referral,Silver,COD,Tidak,60,5,132000,660000,73,3,,8.6,5,5310000,746,Kuning,Indonesia,,1
+PLG0783,53,Medan,Iklan,Silver,COD,Ya,50,14,559000,7826000,61,0,8.2,25.6,10,,9561,Biru,Indonesia,,0
+PLG0784,38,Surabaya,Iklan,Gold,COD,Tidak,34,5,185000,925000,114,4,5.4,11.6,4,3870000,1881,Merah,Indonesia,,1
+PLG0785,41,Jakarta,Organik,Platinum,COD,Tidak,2,12,306000,3672000,97,0,7.7,7.8,4,3230000,1834,Hijau,Indonesia,B,0
+PLG0786,30,Medan,Marketplace,Bronze,E-Wallet,Ya,,2,280000,560000,103,0,8.1,0.7,4,9110000,3765,Kuning,Indonesia,,0
+PLG0787,38,Surabaya,Organik,Platinum,Kartu Kredit,Tidak,29,3,212000,636000,17,0,10,7.4,15,8340000,9204,Kuning,Indonesia,,0
+PLG0788,30,Jakarta,Referral,Bronze,COD,Tidak,14,8,211000,1688000,23,0,7.5,19.4,13,7590000,4161,Merah,Indonesia,,0
+PLG0789,,Bandung,Referral,Platinum,E-Wallet,Tidak,22,10,134000,1340000,107,1,7.9,26.3,0,3100000,7088,Merah,Indonesia,,0
+PLG0790,51,Yogyakarta,Organik,Platinum,Transfer Bank,Ya,1,4,370000,1480000,46,3,4.9,27.9,13,2910000,852,Hijau,Indonesia,,1
+PLG0791,41,Medan,Marketplace,Gold,COD,Ya,1,15,160000,,87,3,7.2,23,11,7130000,7524,Merah,Indonesia,,0
+PLG0792,69,Yogyakarta,Marketplace,Bronze,COD,Ya,58,9,126000,1134000,48,,8.7,14.7,,3080000,3582,Merah,Indonesia,,0
+PLG0793,50,Medan,Iklan,Silver,E-Wallet,Ya,30,14,748000,10472000,29,3,5.5,15.6,11,5010000,7187,Hijau,Indonesia,,0
+PLG0794,38,Yogyakarta,Referral,Bronze,COD,Tidak,,3,295000,885000,54,2,8.3,20.8,7,19040000,4512,Biru,Indonesia,,0
+PLG0795,25,Bandung,Iklan,Bronze,COD,Ya,49,4,289000,1156000,103,0,4.6,27.4,2,2960000,8384,Kuning,Indonesia,B,1
+PLG0796,38,Yogyakarta,Referral,Platinum,E-Wallet,Tidak,26,4,,1376000,90,4,5.4,16.7,11,2550000,65,Hijau,Indonesia,B,1
+PLG0797,47,Bandung,Iklan,,Kartu Kredit,Ya,51,11,209000,2299000,110,0,5.4,8.4,2,5520000,6292,Biru,Indonesia,,1
+PLG0798,36,Bandung,Iklan,,COD,Ya,49,9,380000,3420000,43,4,5.2,5,16,5920000,1541,Kuning,Indonesia,,0
+PLG0799,57,Surabaya,Marketplace,Gold,Transfer Bank,Ya,43,2,326000,652000,114,,8.7,4.8,5,9800000,7085,Kuning,Indonesia,,1
+PLG0800,23,Surabaya,Marketplace,,Kartu Kredit,Ya,31,1,,203000,32,0,8.3,11.9,9,8960000,6100,Biru,Indonesia,,0
+PLG0801,31,Medan,Marketplace,Silver,Kartu Kredit,Tidak,,13,311000,4043000,88,0,9.2,10.7,1,3560000,3257,Kuning,Indonesia,,0
+PLG0802,39,Medan,Organik,Gold,Kartu Kredit,Ya,38,15,195000,2925000,38,1,5.6,14.8,7,,1307,Biru,Indonesia,,0
+PLG0803,26,Jakarta,Iklan,Gold,E-Wallet,Tidak,26,13,295000,3835000,35,0,6.3,19.1,6,3810000,8109,Hijau,Indonesia,,0
+PLG0804,42,Jakarta,Iklan,Bronze,COD,Tidak,58,0,166000,0,29,2,6,1.2,11,,6436,Biru,Indonesia,,0
+PLG0805,54,Jakarta,Iklan,Gold,Kartu Kredit,Ya,,6,237000,1422000,72,0,6.1,28.5,11,3490000,3719,Kuning,Indonesia,,1
+PLG0806,31,Medan,Organik,Platinum,Transfer Bank,Tidak,11,9,408000,3672000,36,3,4.2,16.5,13,3740000,1555,Merah,Indonesia,,0
+PLG0807,43,,Referral,Bronze,Kartu Kredit,Ya,43,8,231000,1848000,75,0,7.9,17.3,15,8190000,139,Biru,Indonesia,,1
+PLG0808,56,Jakarta,Marketplace,Silver,E-Wallet,Tidak,28,10,588000,5880000,93,2,6.1,9.4,7,2680000,2719,Hijau,Indonesia,,0
+PLG0809,45,Bandung,Iklan,Platinum,COD,Tidak,19,9,187000,1683000,20,2,7,2.8,15,5930000,2724,Biru,Indonesia,,0
+PLG0810,34,,Marketplace,Platinum,E-Wallet,Ya,39,8,504000,4032000,92,0,10,0.2,12,3440000,8450,Merah,Indonesia,C,0
+PLG0811,19,Surabaya,Iklan,Platinum,E-Wallet,Ya,42,13,296000,3848000,100,1,8.7,23.3,13,,3061,Biru,Indonesia,,0
+PLG0812,29,Bandung,Marketplace,Bronze,Transfer Bank,Tidak,3,9,193000,1737000,9,0,,26.4,14,14150000,7359,Kuning,Indonesia,C,0
+PLG0813,37,Surabaya,Marketplace,Platinum,Kartu Kredit,Ya,20,5,,1135000,61,4,4.7,18.2,9,4870000,5939,Merah,Indonesia,,0
+PLG0814,37,Jakarta,Marketplace,Bronze,Kartu Kredit,Tidak,39,2,240000,480000,32,0,8.1,11.8,14,7670000,847,Hijau,Indonesia,,1
+PLG0815,26,Surabaya,Referral,Bronze,Kartu Kredit,,41,12,853000,10236000,74,0,8.7,15.8,4,5140000,8813,Hijau,Indonesia,,0
+PLG0816,18,Yogyakarta,Iklan,Bronze,Transfer Bank,Ya,23,9,164000,1476000,21,0,,4.2,18,4810000,8741,Merah,Indonesia,,0
+PLG0817,39,Medan,Referral,Gold,Transfer Bank,Tidak,56,12,211000,2532000,95,0,6.2,18.2,8,2840000,7205,Biru,Indonesia,,0
+PLG0818,23,Bandung,Referral,Silver,Transfer Bank,Tidak,59,,259000,3108000,32,0,6.9,26.7,12,7370000,1790,Kuning,Indonesia,C,1
+PLG0819,32,Surabaya,Referral,Silver,COD,Ya,28,12,183000,2196000,68,0,10,4.7,7,3830000,8798,Merah,Indonesia,,0
+PLG0820,33,Jakarta,Organik,Gold,E-Wallet,Tidak,34,14,266000,3724000,55,0,5.7,23.9,,,5710,Hijau,Indonesia,,0
+PLG0821,22,Medan,Referral,Silver,E-Wallet,Ya,18,6,214000,1284000,70,0,9.9,26.9,3,9580000,8257,Merah,Indonesia,,0
+PLG0822,46,Surabaya,Iklan,Gold,Transfer Bank,Tidak,59,4,,560000,78,0,6.3,11.6,13,,2536,Kuning,Indonesia,,1
+PLG0823,26,Surabaya,Referral,Silver,COD,Tidak,8,5,212000,1060000,59,1,7.9,2.7,4,2980000,4858,Merah,Indonesia,,0
+PLG0824,50,Surabaya,Referral,Gold,Transfer Bank,Tidak,,11,77000,847000,109,0,,16,1,1720000,3692,Kuning,Indonesia,,0
+PLG0825,26,Jakarta,Iklan,Gold,COD,Ya,4,7,176000,1232000,89,0,,23,11,3540000,6684,Hijau,Indonesia,,0
+PLG0826,45,Bandung,Organik,,Transfer Bank,Tidak,42,2,562000,,71,0,,24,1,16490000,3829,Merah,Indonesia,,0
+PLG0827,29,Yogyakarta,Marketplace,Platinum,Kartu Kredit,Tidak,37,2,506000,1012000,98,0,9.3,5.1,4,8390000,8443,Merah,Indonesia,,0
+PLG0828,23,Bandung,Organik,Bronze,E-Wallet,Ya,22,3,381000,1143000,105,0,8.4,6.1,0,12950000,7848,Biru,Indonesia,,1
+PLG0829,43,Surabaya,Organik,Platinum,Transfer Bank,Tidak,55,17,355000,6035000,70,0,9.4,2,9,,9675,Merah,Indonesia,,0
+PLG0830,38,Yogyakarta,Referral,Platinum,Transfer Bank,Ya,13,15,181000,2715000,95,0,8.2,19.4,7,5550000,3808,Biru,Indonesia,,0
+PLG0831,47,Jakarta,Marketplace,Platinum,COD,Ya,15,14,237000,,,2,8.4,14.4,20,13200000,550,Merah,Indonesia,,0
+PLG0832,31,Yogyakarta,Referral,Platinum,Kartu Kredit,Tidak,57,15,201000,3015000,50,0,10,11.1,8,,3997,Hijau,Indonesia,,0
+PLG0833,,Bandung,Iklan,,E-Wallet,Ya,42,14,140000,1960000,94,0,8.8,,12,7180000,5125,Merah,Indonesia,,1
+PLG0834,18,Jakarta,Marketplace,Gold,Transfer Bank,Tidak,36,17,229000,3893000,46,0,,8.1,3,9110000,2304,Merah,Indonesia,,0
+PLG0835,41,Surabaya,Referral,Silver,COD,Tidak,23,2,234000,468000,18,0,10,26.3,12,4640000,1611,Kuning,Indonesia,,0
+PLG0836,29,Medan,Referral,Platinum,COD,Ya,2,5,450000,2250000,25,0,8.5,9.5,9,6880000,709,Kuning,Indonesia,,0
+PLG0837,18,Jakarta,Marketplace,Bronze,E-Wallet,Ya,59,11,249000,2739000,72,0,9.3,16.1,3,13150000,5866,Merah,Indonesia,,0
+PLG0838,48,Bandung,Marketplace,Silver,COD,Tidak,14,4,587000,2348000,13,0,,9,18,13410000,2086,Biru,Indonesia,,0
+PLG0839,53,Jakarta,Organik,Bronze,Kartu Kredit,Tidak,43,12,278000,,12,0,9.1,18.6,13,5460000,6376,Merah,Indonesia,,0
+PLG0840,41,Yogyakarta,Marketplace,Platinum,Transfer Bank,,34,5,438000,2190000,58,0,8.3,21.4,14,2090000,4127,Merah,Indonesia,,0
+PLG0841,36,Yogyakarta,Iklan,Bronze,Kartu Kredit,Tidak,34,7,130000,910000,81,0,7.9,16.5,11,5610000,8631,Kuning,Indonesia,,1
+PLG0842,53,Bandung,Referral,Gold,Kartu Kredit,Tidak,,,243000,243000,77,3,6.2,8.1,9,4110000,9200,Hijau,Indonesia,,1
+PLG0843,45,Bandung,Iklan,Platinum,Transfer Bank,Ya,18,,765000,2295000,33,0,7.7,10.4,8,6300000,2435,Hijau,Indonesia,,0
+PLG0844,27,Bandung,Marketplace,Gold,COD,Ya,7,15,125000,1875000,51,0,,24.3,7,6590000,4551,Biru,Indonesia,,0
+PLG0845,19,Bandung,Iklan,Platinum,Transfer Bank,Tidak,22,13,156000,2028000,53,1,8,1.4,4,6810000,1118,Kuning,Indonesia,A,0
+PLG0846,36,Medan,Marketplace,Silver,Transfer Bank,Ya,44,17,411000,,95,0,9.6,10.7,3,,9088,Merah,Indonesia,,0
+PLG0847,38,Yogyakarta,Marketplace,Platinum,Kartu Kredit,Ya,58,17,187000,3179000,60,0,4.9,2.4,,9600000,9898,Kuning,Indonesia,,0
+PLG0848,38,Medan,Marketplace,Gold,Kartu Kredit,Tidak,58,6,535000,3210000,112,3,5.5,26.3,10,8400000,7666,Hijau,Indonesia,,1
+PLG0849,43,Yogyakarta,Iklan,Gold,Transfer Bank,Tidak,49,6,200000,1200000,94,0,6.1,5.9,13,4450000,5966,Kuning,Indonesia,B,0
+PLG0850,37,Surabaya,Iklan,Silver,Kartu Kredit,Ya,22,7,,2058000,78,0,7.4,5.1,11,5240000,173,Kuning,Indonesia,,0
+PLG0851,36,Bandung,Iklan,Silver,E-Wallet,Ya,43,6,173000,1038000,110,0,8.7,28.6,6,2690000,8953,Biru,Indonesia,,0
+PLG0852,35,Surabaya,Iklan,Platinum,Kartu Kredit,Ya,,14,393000,5502000,98,1,9,3.7,12,4770000,1700,Merah,Indonesia,,0
+PLG0853,37,Yogyakarta,Referral,Platinum,COD,Ya,11,13,185000,2405000,1,0,8.3,,24,4580000,1801,Kuning,Indonesia,,0
+PLG0854,28,Yogyakarta,Iklan,Platinum,E-Wallet,Ya,28,10,331000,3310000,79,2,4.2,0.3,0,13320000,2777,Merah,Indonesia,,0
+PLG0855,31,Jakarta,Referral,Platinum,E-Wallet,Tidak,8,9,184000,1656000,,0,8.6,7,3,5480000,343,Merah,Indonesia,,0
+PLG0856,18,Bandung,Marketplace,Silver,Transfer Bank,Ya,36,0,309000,0,68,0,6.5,12.1,13,10520000,2684,Biru,Indonesia,C,1
+PLG0857,29,Yogyakarta,Iklan,Gold,COD,Tidak,33,11,351000,3861000,108,0,9.2,16,5,2310000,5827,Kuning,Indonesia,,0
+PLG0858,40,Bandung,Referral,Bronze,COD,Ya,36,16,,5744000,114,0,7.6,1.1,7,,6822,Kuning,Indonesia,,0
+PLG0859,34,Medan,Marketplace,Gold,E-Wallet,Tidak,19,6,275000,1650000,4,0,8,14.3,18,7650000,3867,Biru,Indonesia,,0
+PLG0860,28,Jakarta,Iklan,Silver,Transfer Bank,Tidak,54,16,208000,3328000,55,0,8.4,19.6,19,,1428,Merah,Indonesia,,0
+PLG0861,43,Bandung,Marketplace,Bronze,COD,Ya,51,,176000,0,25,0,6.8,21.2,14,3480000,8610,Biru,Indonesia,,0
+PLG0862,20,Medan,Referral,Bronze,COD,Tidak,29,10,96000,960000,108,3,6,18.2,13,,1452,Hijau,Indonesia,,1
+PLG0863,37,Bandung,Referral,Bronze,Kartu Kredit,Tidak,4,11,304000,3344000,86,2,6.4,13.9,11,8630000,8952,Biru,Indonesia,,1
+PLG0864,45,Bandung,Marketplace,Bronze,Kartu Kredit,Tidak,26,2,85000,170000,9,3,,25.3,19,6510000,7662,Kuning,Indonesia,,0
+PLG0865,39,Bandung,Organik,Gold,Kartu Kredit,Ya,53,15,129000,1935000,119,0,8.8,17.5,7,6260000,3813,Hijau,Indonesia,,0
+PLG0866,40,Bandung,Iklan,Silver,COD,Tidak,9,6,191000,1146000,39,0,5.5,6,10,6140000,7473,Hijau,Indonesia,,0
+PLG0867,31,Yogyakarta,Marketplace,Platinum,Kartu Kredit,Ya,29,8,322000,2576000,111,,,14.7,,,3863,Merah,Indonesia,,0
+PLG0868,31,Yogyakarta,Organik,Silver,Transfer Bank,Ya,,16,172000,2752000,31,3,6,0.3,7,5820000,14,Kuning,Indonesia,,0
+PLG0869,40,Jakarta,Marketplace,Gold,E-Wallet,Ya,,0,489000,0,3,2,6.6,17,18,10750000,9866,Merah,Indonesia,,0
+PLG0870,48,Bandung,Referral,Gold,Kartu Kredit,Tidak,49,2,249000,498000,37,0,8.7,22.4,13,4230000,2414,Biru,Indonesia,,0
+PLG0871,44,Medan,Referral,Platinum,Transfer Bank,Ya,4,6,,1152000,36,1,,2.9,12,7370000,8814,Kuning,Indonesia,,0
+PLG0872,49,Surabaya,Marketplace,Gold,Kartu Kredit,Ya,53,15,177000,2655000,46,0,6.3,27.4,14,5610000,7168,Kuning,Indonesia,,0
+PLG0873,44,Jakarta,Referral,Silver,Transfer Bank,Ya,11,9,205000,1845000,63,2,7,,4,5910000,4277,Biru,Indonesia,,0
+PLG0874,47,Jakarta,Referral,Platinum,Transfer Bank,,41,6,248000,1488000,62,0,7.6,3.9,6,4240000,1715,Kuning,Indonesia,,0
+PLG0875,50,Bandung,Organik,Gold,E-Wallet,Tidak,14,11,328000,3608000,38,1,10,10.3,14,13910000,7746,Biru,Indonesia,,0
+PLG0876,52,Yogyakarta,,Gold,Transfer Bank,Ya,25,8,225000,1800000,,,4.5,,15,,456,Kuning,Indonesia,,1
+PLG0877,50,Medan,Marketplace,Platinum,Transfer Bank,Tidak,15,10,132000,1320000,81,0,,27.4,9,5900000,7688,Merah,Indonesia,,0
+PLG0878,44,Jakarta,Referral,Platinum,Kartu Kredit,Tidak,12,1,326000,,101,3,8.1,15.5,6,9210000,6754,Kuning,Indonesia,,0
+PLG0879,50,Jakarta,Referral,Platinum,Transfer Bank,Ya,57,10,245000,,24,4,5.9,1.9,15,8580000,935,Hijau,Indonesia,,0
+PLG0880,39,Surabaya,Referral,Platinum,COD,Ya,26,3,,1374000,74,0,8,25.4,4,2670000,1206,Merah,Indonesia,,0
+PLG0881,42,Medan,,Platinum,COD,Tidak,54,15,289000,4335000,24,0,10,2.1,18,3090000,9488,Hijau,Indonesia,,0
+PLG0882,45,Yogyakarta,Referral,Bronze,Kartu Kredit,Ya,12,1,93000,93000,72,4,6.9,7.3,9,5730000,3116,Kuning,Indonesia,,1
+PLG0883,,Surabaya,Referral,Bronze,Kartu Kredit,Tidak,38,8,406000,3248000,119,0,8.3,4.6,13,5270000,6989,Hijau,Indonesia,,1
+PLG0884,39,Surabaya,Referral,Gold,Transfer Bank,Ya,6,3,282000,846000,93,0,10,13.1,13,4680000,4669,Kuning,Indonesia,,0
+PLG0885,53,Bandung,Organik,Platinum,E-Wallet,Ya,5,2,208000,416000,109,3,6.8,16.3,16,5940000,1337,Biru,Indonesia,,1
+PLG0886,37,,Iklan,Platinum,E-Wallet,Tidak,50,11,214000,2354000,36,0,10,11.6,19,6010000,8513,Kuning,Indonesia,C,0
+PLG0887,36,Jakarta,Iklan,Silver,Transfer Bank,Ya,3,0,,0,34,2,7.9,6.6,22,3810000,8202,Hijau,Indonesia,,1
+PLG0888,56,Jakarta,Iklan,Silver,Transfer Bank,Ya,57,12,271000,3252000,94,0,9.2,22.8,7,,5783,Biru,Indonesia,,0
+PLG0889,37,Medan,Iklan,Gold,COD,Tidak,28,17,299000,5083000,47,0,8.5,29.1,4,9120000,4112,Biru,Indonesia,,0
+PLG0890,18,Medan,Referral,,E-Wallet,Tidak,21,8,467000,3736000,47,1,5.6,7.7,1,8130000,2614,Hijau,Indonesia,C,0
+PLG0891,18,Jakarta,Marketplace,Bronze,Transfer Bank,Ya,9,8,232000,1856000,28,2,6.5,29.2,16,7290000,1771,Biru,Indonesia,,0
+PLG0892,41,Medan,,Platinum,Kartu Kredit,Ya,32,0,180000,0,1,0,8.4,20.8,12,6700000,3011,Kuning,Indonesia,,0
+PLG0893,33,Bandung,Organik,Silver,Kartu Kredit,Ya,11,13,199000,2587000,35,1,7.9,2.2,14,6050000,5411,Kuning,Indonesia,,0
+PLG0894,38,Jakarta,Organik,Silver,Kartu Kredit,Ya,28,6,353000,2118000,109,0,7.3,25.8,13,3430000,2954,Hijau,Indonesia,,0
+PLG0895,29,Yogyakarta,Iklan,Silver,E-Wallet,Ya,12,0,1659000,0,,0,8.8,26.6,,7950000,6661,Merah,Indonesia,,0
+PLG0896,18,Surabaya,Referral,Gold,COD,Tidak,32,7,573000,4011000,22,0,8.9,16.9,14,3160000,2613,Kuning,Indonesia,,0
+PLG0897,35,,Iklan,Silver,COD,Ya,41,16,149000,2384000,9,4,3.3,14.4,6,1910000,2250,Kuning,Indonesia,,0
+PLG0898,18,Yogyakarta,Referral,Silver,E-Wallet,Ya,43,14,156000,2184000,38,3,6.5,20.8,19,8470000,2554,Biru,Indonesia,,0
+PLG0899,36,Medan,Iklan,Silver,Transfer Bank,Tidak,16,15,230000,3450000,94,2,8.2,15.9,2,4460000,276,Merah,Indonesia,,0
+PLG0900,46,Medan,Marketplace,Platinum,Transfer Bank,Tidak,9,0,325000,0,116,0,8.8,8.5,1,3890000,3596,Kuning,Indonesia,,1
+PLG0901,,Surabaya,,Bronze,Kartu Kredit,Ya,25,7,,1246000,48,3,7.1,15.3,10,5660000,8630,Biru,Indonesia,,0
+PLG0902,43,Jakarta,Organik,,Kartu Kredit,Tidak,48,15,,5985000,21,0,9.7,10.5,15,13870000,737,Kuning,Indonesia,,0
+PLG0903,18,Medan,Organik,Bronze,Kartu Kredit,Tidak,,13,134000,1742000,44,0,8.1,28.8,,6560000,6500,Hijau,Indonesia,,0
+PLG0904,40,Medan,Iklan,Platinum,Kartu Kredit,Ya,39,12,292000,3504000,97,0,7.2,6.2,7,5680000,9563,Merah,Indonesia,,0
+PLG0905,48,Bandung,,Bronze,Transfer Bank,Ya,53,4,122000,488000,102,0,,16.9,7,6320000,5916,Merah,Indonesia,,1
+PLG0906,41,Bandung,Organik,Platinum,Transfer Bank,Ya,35,1,219000,219000,120,0,8.4,14.9,9,1920000,823,Hijau,Indonesia,,0
+PLG0907,57,Medan,Marketplace,Gold,Kartu Kredit,Ya,,8,138000,1104000,46,0,10,,5,4540000,1389,Hijau,Indonesia,,0
+PLG0908,18,Yogyakarta,Referral,Platinum,COD,Ya,53,10,170000,,62,0,9.1,22.4,15,3920000,4736,Biru,Indonesia,,0
+PLG0909,44,Medan,Referral,Bronze,Kartu Kredit,Ya,22,14,95000,1330000,45,0,8.4,18.7,8,4830000,1815,Hijau,Indonesia,,0
+PLG0910,33,Bandung,Iklan,Silver,Kartu Kredit,Ya,37,5,286000,1430000,91,0,7.4,18.8,10,,6841,Kuning,Indonesia,,0
+PLG0911,38,Bandung,Referral,Gold,Kartu Kredit,Ya,26,9,398000,3582000,5,0,7.2,4.7,10,4520000,2350,Hijau,Indonesia,,0
+PLG0912,41,Bandung,Marketplace,Platinum,Transfer Bank,Ya,5,14,667000,9338000,17,0,,26.8,14,7150000,9879,Hijau,Indonesia,,0
+PLG0913,38,Jakarta,Referral,Bronze,Kartu Kredit,Tidak,47,14,316000,4424000,105,4,7.2,10.5,3,2100000,1530,Biru,Indonesia,,1
+PLG0914,38,Yogyakarta,Iklan,Gold,Kartu Kredit,Tidak,33,9,153000,1377000,108,1,7.8,17.2,13,9120000,5782,Biru,Indonesia,,0
+PLG0915,47,Surabaya,Organik,Silver,Kartu Kredit,Ya,6,1,123000,123000,,0,7.2,11,9,6330000,9533,Hijau,Indonesia,,0
+PLG0916,28,Yogyakarta,,Bronze,E-Wallet,Ya,48,11,213000,2343000,9,0,8.3,4.8,15,4090000,6526,Kuning,Indonesia,,0
+PLG0917,37,Medan,Referral,Platinum,Kartu Kredit,Ya,52,4,314000,1256000,78,0,7.6,9.6,10,5400000,1105,Biru,Indonesia,,0
+PLG0918,44,Surabaya,Iklan,Silver,Transfer Bank,Ya,54,8,115000,920000,81,1,7,18.9,12,11630000,1131,Kuning,Indonesia,A,0
+PLG0919,58,Yogyakarta,Iklan,Bronze,Kartu Kredit,Tidak,26,0,142000,0,8,0,,3.3,8,11690000,2503,Merah,Indonesia,,0
+PLG0920,34,Bandung,Marketplace,Platinum,COD,Ya,45,16,137000,2192000,41,0,,2.4,19,,2526,Kuning,Indonesia,,0
+PLG0921,38,Bandung,Marketplace,Silver,Kartu Kredit,,24,16,157000,2512000,50,4,4.8,4.6,13,,7751,Kuning,Indonesia,,0
+PLG0922,18,Bandung,Referral,Silver,E-Wallet,Ya,15,6,222000,1332000,91,3,6.2,11.6,0,5350000,6185,Biru,Indonesia,,1
+PLG0923,57,,Organik,Silver,Transfer Bank,Tidak,47,9,141000,1269000,72,0,9.2,6,6,7960000,1666,Biru,Indonesia,,0
+PLG0924,26,Bandung,Organik,Silver,Transfer Bank,Ya,54,13,453000,5889000,113,,7.1,9.8,7,10550000,4509,Biru,Indonesia,,0
+PLG0925,18,Yogyakarta,Referral,Platinum,Kartu Kredit,Ya,14,17,109000,1853000,90,0,6.1,2.2,8,,8677,Biru,Indonesia,,0
+PLG0926,53,Bandung,Iklan,Silver,Kartu Kredit,Ya,34,6,404000,2424000,46,0,8.2,9.4,16,,9166,Biru,Indonesia,,0
+PLG0927,39,Medan,Iklan,Silver,COD,Ya,21,16,164000,2624000,29,4,5.8,8.4,15,5940000,224,Hijau,Indonesia,,0
+PLG0928,62,Medan,Referral,Gold,Kartu Kredit,Tidak,16,,173000,692000,94,4,1.9,29,6,5630000,4766,Hijau,Indonesia,,1
+PLG0929,19,Medan,,Gold,,Tidak,18,11,225000,2475000,53,0,8.9,27.7,15,1980000,452,Hijau,Indonesia,,0
+PLG0930,35,Medan,Referral,Gold,COD,Ya,41,6,393000,2358000,30,0,6.3,,13,7330000,6014,Kuning,Indonesia,,0
+PLG0931,19,Jakarta,Referral,Bronze,COD,Ya,13,6,95000,570000,101,0,9.9,12.6,19,8590000,9222,Hijau,Indonesia,,0
+PLG0932,31,Yogyakarta,Iklan,Silver,Transfer Bank,Tidak,46,14,,6916000,11,0,8.1,15.9,11,7240000,7414,Kuning,Indonesia,,0
+PLG0933,36,Surabaya,Referral,Platinum,Kartu Kredit,Ya,17,15,94000,1410000,4,0,,18.3,15,8950000,8186,Biru,Indonesia,,0
+PLG0934,41,Bandung,Referral,Platinum,Kartu Kredit,Tidak,18,6,333000,1998000,27,4,2.7,26.1,12,2120000,9598,Hijau,Indonesia,,0
+PLG0935,18,,Iklan,Silver,Transfer Bank,Ya,20,14,224000,,72,0,6.8,18.1,12,,9831,Kuning,Indonesia,,0
+PLG0936,18,Jakarta,Organik,Bronze,COD,Ya,59,3,185000,555000,98,0,7.3,29.1,3,5470000,7987,Biru,Indonesia,,0
+PLG0937,22,Jakarta,Referral,Bronze,COD,Ya,27,7,337000,2359000,3,0,5.9,26.3,14,6290000,4748,Merah,Indonesia,C,0
+PLG0938,23,Medan,Organik,Silver,COD,Ya,13,7,283000,1981000,39,0,10,14.7,10,10020000,4558,Biru,Indonesia,,0
+PLG0939,27,Medan,Iklan,Silver,Transfer Bank,Tidak,34,7,,6013000,101,0,10,26.1,0,4880000,401,Biru,Indonesia,,1
+PLG0940,48,Yogyakarta,Referral,Platinum,Transfer Bank,Ya,40,17,832000,,95,0,8.9,2.2,5,16230000,431,Kuning,Indonesia,,0
+PLG0941,40,Jakarta,Organik,Gold,Kartu Kredit,Tidak,10,15,394000,5910000,17,2,7.9,27.6,10,11540000,1241,Merah,Indonesia,,0
+PLG0942,55,Yogyakarta,Organik,Gold,Kartu Kredit,Tidak,,8,220000,1760000,77,0,7.9,12.1,15,8640000,7330,Biru,Indonesia,A,0
+PLG0943,18,Yogyakarta,,Silver,Transfer Bank,Tidak,16,2,902000,1804000,114,0,,27.3,12,6640000,2113,Hijau,Indonesia,,1
+PLG0944,26,Jakarta,Organik,Bronze,COD,Ya,,,191000,2101000,63,0,7.4,19,9,8100000,2028,Hijau,Indonesia,C,0
+PLG0945,28,Jakarta,Organik,Silver,COD,Ya,44,8,206000,1648000,21,3,4.5,,13,5440000,8480,Merah,Indonesia,,0
+PLG0946,43,Jakarta,Referral,Silver,E-Wallet,Ya,24,11,265000,2915000,33,0,,16.3,8,8460000,8994,Merah,Indonesia,,0
+PLG0947,32,Medan,Organik,Silver,Kartu Kredit,Ya,,4,307000,1228000,50,2,5.1,12.2,10,3550000,7760,Hijau,Indonesia,,0
+PLG0948,50,,Referral,Gold,COD,Tidak,22,2,79000,158000,93,2,7.1,14.1,2,,4291,Biru,Indonesia,,0
+PLG0949,36,Medan,,,E-Wallet,Ya,47,,279000,2790000,93,0,,17.7,3,,5841,Kuning,Indonesia,,0
+PLG0950,31,Bandung,Referral,Gold,E-Wallet,Ya,48,13,227000,2951000,117,0,8.3,7.5,5,9910000,350,Hijau,Indonesia,,0
+PLG0951,48,Medan,Organik,Platinum,E-Wallet,Tidak,24,16,431000,,110,0,9.2,4.6,10,,3379,Hijau,Indonesia,,0
+PLG0952,41,Yogyakarta,Iklan,Bronze,Transfer Bank,Tidak,46,10,309000,3090000,18,4,6.7,10.2,14,,4498,Biru,Indonesia,,1
+PLG0953,47,,Iklan,Gold,Transfer Bank,Ya,44,9,555000,4995000,20,4,4.3,13.7,11,11180000,9692,Hijau,Indonesia,,0
+PLG0954,25,Yogyakarta,Iklan,Platinum,Kartu Kredit,Tidak,19,,312000,3120000,91,0,9.9,1.5,9,12790000,8084,Kuning,Indonesia,,0
+PLG0955,37,Yogyakarta,Organik,Platinum,E-Wallet,Ya,38,17,331000,5627000,116,0,8.9,22.1,0,4410000,9135,Merah,Indonesia,,1
+PLG0956,27,Bandung,Organik,Bronze,Kartu Kredit,Ya,33,14,381000,5334000,66,0,8.1,21.3,8,3650000,4557,Merah,Indonesia,,0
+PLG0957,47,Surabaya,Iklan,Bronze,COD,Ya,49,7,188000,1316000,26,0,,29.6,12,4100000,5034,Kuning,Indonesia,B,0
+PLG0958,36,Surabaya,Iklan,Platinum,E-Wallet,Ya,21,8,292000,2336000,109,2,5.7,11.6,8,6820000,7278,Merah,Indonesia,,1
+PLG0959,30,Bandung,Marketplace,Gold,COD,Tidak,31,6,320000,1920000,37,3,6.6,27.2,12,3680000,8537,Kuning,Indonesia,,0
+PLG0960,33,Surabaya,Marketplace,Silver,COD,Tidak,59,9,417000,3753000,38,,7.3,23.7,12,7560000,3562,Biru,Indonesia,B,0
+PLG0961,18,Jakarta,Referral,Gold,COD,,38,5,175000,875000,2,3,4.3,6.4,16,9460000,5730,Kuning,Indonesia,,0
+PLG0962,19,Surabaya,Referral,Gold,Transfer Bank,Tidak,12,9,296000,2664000,88,2,4.4,18.9,3,7540000,8112,Merah,Indonesia,,0
+PLG0963,,Bandung,Marketplace,Gold,,Tidak,37,1,383000,383000,29,0,7.5,3.3,11,2490000,8304,Kuning,Indonesia,,0
+PLG0964,34,Medan,Referral,Platinum,Kartu Kredit,Tidak,39,4,240000,960000,59,0,,28.9,18,4900000,7906,Kuning,Indonesia,,0
+PLG0965,61,Jakarta,Referral,Bronze,E-Wallet,Tidak,39,10,159000,,82,0,7.3,29.2,15,9380000,4840,Biru,Indonesia,,0
+PLG0966,42,Bandung,Organik,Gold,Kartu Kredit,Ya,54,15,150000,2250000,49,0,6.7,3.4,11,5420000,6127,Hijau,Indonesia,,0
+PLG0967,34,Bandung,,Platinum,COD,Ya,25,1,456000,456000,43,1,7.9,5.5,9,3910000,6163,Merah,Indonesia,,0
+PLG0968,55,Yogyakarta,Referral,Silver,Kartu Kredit,Tidak,41,13,434000,5642000,1,0,10,21.3,20,2220000,8692,Merah,Indonesia,,0
+PLG0969,38,Surabaya,Referral,Bronze,COD,Tidak,52,15,250000,3750000,27,1,,7,7,3030000,9820,Merah,Indonesia,,0
+PLG0970,33,Medan,Marketplace,Platinum,Transfer Bank,Tidak,41,6,254000,1524000,,1,6.9,29.5,15,5740000,1807,Merah,Indonesia,,0
+PLG0971,37,Bandung,Referral,Platinum,Transfer Bank,Tidak,57,10,341000,3410000,116,,3.9,3.2,7,4500000,62,Kuning,Indonesia,,1
+PLG0972,33,Surabaya,Referral,Bronze,Transfer Bank,Ya,52,12,148000,1776000,90,1,6.7,26.7,4,7610000,7621,Hijau,Indonesia,,0
+PLG0973,43,Bandung,Marketplace,Gold,Kartu Kredit,Ya,16,13,240000,3120000,117,0,6.4,8.8,10,4000000,1830,Kuning,Indonesia,,1
+PLG0974,27,Medan,Iklan,,Transfer Bank,Tidak,1,17,162000,2754000,51,0,10,25.3,12,5600000,6039,Hijau,Indonesia,,0
+PLG0975,39,Yogyakarta,Organik,Platinum,E-Wallet,Ya,6,13,481000,6253000,17,0,9.2,15.5,15,3840000,1235,Kuning,Indonesia,,0
+PLG0976,19,Medan,Marketplace,,COD,Ya,16,7,191000,1337000,93,4,3.9,6.1,8,5310000,597,Biru,Indonesia,,1
+PLG0977,41,Medan,Marketplace,Bronze,Kartu Kredit,Tidak,46,9,921000,8289000,92,0,6.5,12.6,3,7670000,6262,Biru,Indonesia,,0
+PLG0978,42,Medan,Organik,Platinum,Kartu Kredit,Tidak,52,3,236000,,74,1,8.5,17.2,5,3610000,3245,Merah,Indonesia,,0
+PLG0979,32,Surabaya,Organik,Silver,E-Wallet,Tidak,13,10,,3460000,105,0,6,2.5,5,9450000,1497,Merah,Indonesia,,1
+PLG0980,53,Yogyakarta,Iklan,Gold,E-Wallet,Ya,3,3,138000,414000,91,0,10,15,0,2730000,3595,Hijau,Indonesia,,1
+PLG0981,36,Surabaya,Organik,Bronze,Transfer Bank,Tidak,20,4,,724000,4,0,7.6,21.7,7,4960000,9806,Merah,Indonesia,,0
+PLG0982,26,Jakarta,Marketplace,Platinum,Transfer Bank,Tidak,44,15,216000,,93,0,8.6,7.8,8,3090000,7066,Kuning,Indonesia,,0
+PLG0983,53,Yogyakarta,Organik,Platinum,COD,Tidak,,4,518000,2072000,106,0,7.4,8.3,,4760000,8013,Merah,Indonesia,,1
+PLG0984,48,Medan,,Bronze,E-Wallet,Tidak,37,7,455000,3185000,3,0,7.5,21.7,14,4170000,8161,Biru,Indonesia,A,0
+PLG0985,28,Bandung,Referral,Gold,Kartu Kredit,Ya,18,13,321000,4173000,6,2,6.4,11.6,18,2820000,4190,Hijau,Indonesia,,0
+PLG0986,34,Yogyakarta,Organik,Platinum,E-Wallet,Tidak,14,8,483000,3864000,108,0,9.2,0.7,1,2310000,418,Biru,Indonesia,,0
+PLG0987,38,Jakarta,Iklan,Platinum,COD,Tidak,32,1,186000,,66,0,7.6,7.9,9,23360000,2728,Merah,Indonesia,,0
+PLG0988,23,Bandung,Organik,Platinum,E-Wallet,Ya,34,5,115000,,116,0,8.6,10.8,8,3150000,9439,Merah,Indonesia,,0
+PLG0989,40,Yogyakarta,Referral,Silver,,Ya,48,,250000,4250000,93,0,5.9,13.4,4,1950000,286,Biru,Indonesia,,0
+PLG0990,27,Jakarta,Marketplace,Silver,COD,Ya,31,13,225000,2925000,118,0,10,11.4,0,5110000,6552,Kuning,Indonesia,,0
+PLG0991,47,Bandung,Iklan,Platinum,Transfer Bank,Tidak,2,16,348000,5568000,100,0,9.7,5.2,13,,4335,Hijau,Indonesia,,0
+PLG0992,42,Yogyakarta,Marketplace,Silver,E-Wallet,Ya,3,9,379000,3411000,92,0,9.7,28.3,9,4570000,931,Biru,Indonesia,,0
+PLG0993,57,Yogyakarta,Marketplace,Gold,COD,Ya,3,9,225000,2025000,47,2,8,3.3,22,3840000,3768,Merah,Indonesia,,0
+PLG0994,36,Medan,Referral,Platinum,Kartu Kredit,Tidak,51,11,133000,1463000,24,3,6.1,23.8,12,,193,Kuning,Indonesia,,0
+PLG0995,42,Bandung,Organik,Platinum,Kartu Kredit,Ya,60,11,148000,1628000,12,0,9,14.7,5,8700000,6976,Merah,Indonesia,,0
+PLG0996,,Bandung,Iklan,Platinum,Kartu Kredit,Tidak,8,11,206000,2266000,113,0,7.5,4.3,0,,3464,Merah,Indonesia,,0
+PLG0997,,Medan,Iklan,Silver,Transfer Bank,Ya,26,5,,1535000,41,0,8,19.1,15,7110000,767,Kuning,Indonesia,,0
+PLG0998,37,Medan,Referral,Gold,Kartu Kredit,Ya,18,6,65000,,13,0,7.1,25.1,12,6730000,6318,Biru,Indonesia,,0
+PLG0999,18,Yogyakarta,Organik,Gold,Transfer Bank,Ya,34,11,430000,4730000,,0,,22.2,6,,98,Merah,Indonesia,,0
+PLG1000,36,Medan,Iklan,Gold,COD,Tidak,25,4,418000,1672000,61,3,5.8,25.5,4,,982,Hijau,Indonesia,,1
