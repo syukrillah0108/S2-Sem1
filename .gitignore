@@ -1,2 +1,4 @@
 /.vscode
 /tmp
+# File > 100MB (limit GitHub)
+Advanced Machine Learning/UTS/creditcard.csv
